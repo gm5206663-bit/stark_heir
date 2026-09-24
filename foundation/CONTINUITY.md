@@ -38,3 +38,6 @@ F-011 repeating dream fragments (observers-only; nothing certified) — OPEN.
 F-012 ribs-flinch flag (Mark: human-eyes only; 'blames the desert' cover noted; chest/arc unknown to all but Tony+Pepper) — OPEN.
 F-013 the armor naming (user lock): suits named after Mark — debut exchange queued for Ch4 workshop rebirth — OPEN.
 F-014 cheeseburger tradition (father-son texture; seeded Ch3 dinner, tradition from Ch4) — OPEN.
+F-013 the armor naming — DEBUT DELIVERED Ch.4 panel four ("why Mark Two" answered on page; armor family named for the son; future suits continue the law) — TRANSFORMED→standing law of the racks.
+F-014 cheeseburger Fridays — OPENED Ch.4 panel one (quorum of two, Happy included) — standing tradition.
+F-015 Coulson's Tuesday — Pepper booked the debrief for Tuesday (canon name-gag staged); defaults to film outcome — OPEN.

@@ -9,6 +9,8 @@
 - `Chapter_02_The_Albatross.md` (35,873 B · 6,391 words) — Ch.2 v2 — the captivity arc, five Tony-side panels · gates PASS
 - `Chapter_03_The_Return.md` (28,860 B · 5,060 words) — Ch.3 v3 — the return arc, beats 10–12 · gates PASS
 
+- `Chapter_04_The_Workshop_Rebirth.md` (32,225 B · 5,537 words) — Ch.4 — IM1 beats 13–15 · naming exchange · gates PASS
+
 ## foundation/
 - `ADAPTATION_TALENT_STUDY.md` (7,996 B) — Talent doctrine study
 - `CONTINUITY.md` (2,871 B) — open threads F-001..F-014

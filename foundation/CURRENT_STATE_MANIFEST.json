@@ -1,18 +1,18 @@
 {
   "schema_version": "1.0-mark",
-  "updated": "2026-09-21",
+  "updated": "2026-09-24",
   "purpose": "Machine-readable current-state manifest for the Mark Stark MCU fic. Powers tools/mcu_verify.py.",
-  "latest_fic_chapter": 3,
-  "latest_fic_title": "The Return",
-  "latest_fic_file": "chapters/Chapter_03_The_Return.md",
+  "latest_fic_chapter": 4,
+  "latest_fic_title": "The Workshop Rebirth",
+  "latest_fic_file": "chapters/Chapter_04_The_Workshop_Rebirth.md",
   "canon_consumed_through": {
-    "note": "IM1 FULL — opening span, captivity arc (cave staged: awakening→weeks→escape→find), return span incl. chest-swap. DECLARED omissions reduced to: military hospital (film does not stage). THREAD: Mark knows nothing of chest/arc (F-012, character-layer). All [reported]; film re-verify queued before second visits."
+    "note": "IM1 FULL through beat 15: opening span, captivity arc, return span incl. chest-swap, workshop rebirth complete (build, flight log one, first flight, altitude/icing, roof-and-piano), hot-rod red decided over the Gulmira broadcast, benefit gala (Coulson name-gag + Tuesday, dress, dance, hand-kiss rumor, balcony, Everhart photos, Tony's exit). DECLARED omissions: military hospital only. Gulmira sortie = next span (chapter five, film order). THREAD: Mark knows suits-only, never the arc (F-012 intact). All [reported]; film re-verify queued before second visits."
   },
-  "next_fic_chapter": 4,
-  "next_beat": "Aftermath weeks: weapons-shutdown storms (board, press), Obadiah's stewardship friction, Mark's optics-promise staged, Tony rebuilding workshop rhythm (his private lab work deferred in-scene), Mark's practice/growth continuation, first public world-design ripple",
+  "next_fic_chapter": 5,
+  "next_beat": "Gulmira sortie staged full (canon): Yinsen's town honored, tank punch, village saved → US jets intercept → Rhodey cover, aftermath: Obadiah office confrontation (board lockout) → sector sixteen seeds → arc theft setup. Mark-side: the world's first Iron Man coverage reaches his screens (human-means only), F-012 tension tightens, Extensions/loiter discipline holds, tradition Fridays hold.",
   "current_state": {
-    "mark": "Twelve. Reunited with Dad (layered readback matured: Dad's warm carries canyon-grief + new guard-up stillness; nothing lean). Watched shutdown conference. Countered Obadiah's optics-ask with his own optics-literacy. Notebook discipline steady. Extension/TK-dimmer ledger intact. Albatross dormant in wadi hide.",
-    "tony": "Home. Sling, ribs hurt (wince hidden, 'blames the desert' — flagged F-012, human-only cue). Chest/arc secret intact from Mark (closed beat declared). Shutdown declared publicly; board storm brewing. Did not lift bench sheet.",
+    "mark": "Twelve. Tradition holds (Fridays, cheeseburgers). Naming exchange received (T-14 spent-debut, thread ongoing). Saw suits, never arc (F-012). Notebook discipline + entry twenty-four. Albatross dormant watch; Extension loiter evenings only.",
+    "tony": "Mark Two complete incl. first flight + icing/piano incident (JARVIS cover). Red coat decided after Gulmira broadcast. Gala done: dance with Pepper, balcony photographed by Everhart. Left the party for the sortie. Obadiah unaware of red plan.",
     "household": "Pepper airport-armor/fidelity; Happy-flinch-noted (T-12 shared nod); Obadiah stewardship + parlor dinner done; optics-one-step-below-choke-point accepted.",
     "firewalls": "Powers secret from all. Obadiah guilt unknown. Afghanistan closed. Telepathy closed."
   },

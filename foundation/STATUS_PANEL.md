@@ -1,10 +1,10 @@
 # STATUS PANEL — MARK HOWARD STARK (§69 standard, condensed)
 
-## §0. LIVE — through Iron Man 1 beats 1–12 · post-Chapter Three, 2026-09-24 (age 12)
-- **Shipped & gated:** Ch.1 v5 `Before the News` · Ch.2 v2 `The Albatross` (6,231 words) · Ch.3 v3 `The Return` (4,909 words). Gates: `tools/mcu_verify.py` PASS · zero-digit · zero-CJK · canon receipts on file (`canon_coverage/`).
-- **Canon consumed:** IM1 beats 1–12 staged scene-by-scene in film order (Kunar ambush → the captivity arc staged from five Tony-side panels → desert find → runway → cheeseburger → shutdown conference with Obadiah's cover → the night chest-swap with the plaque line). Declared off-page: military hospital only (the film never stages it).
+## §0. LIVE — through Iron Man 1 beats 1–15 · post-Chapter Four, 2026-09-24 (age 12)
+- **Shipped & gated:** Ch.1 v5 `Before the News` · Ch.2 v2 `The Albatross` (6,231 words) · Ch.3 v3 `The Return` (4,909 words) · Ch.4 `The Workshop Rebirth` (5,467 words). Gates: `tools/mcu_verify.py` PASS · zero-digit · zero-CJK · canon receipts on file (`canon_coverage/`).
+- **Canon consumed:** IM1 beats 1–15 staged in film order (ambush → cave arc → find → runway → conference → chest-swap → *workshop rebirth complete: build bench, flight log one, first flight, altitude/icing, roof-and-piano* → hot-rod red over the Gulmira broadcast → benefit gala: Coulson name-gag, dance, balcony, Everhart photos, Tony's exit). Declared off-page: military hospital only. Next span opens with the Gulmira sortie.
 - **Craft line:** Extension (arm-reach range), the TK-seed's latency-taught granularity lab, the dimmer's voluntary depth labeling — benchmarks intact; growth logged per Chapter 2–3 ledgers; law violations ZERO. Latest power audits filed in the coverage files.
-- **Open threads:** F-001 TRANSFORMED · F-009 dormant (sheet-unlifted) · F-012 OPEN (arc-reactor secret kept at character layer per CAMERA LAW P12-AMENDMENT) · F-013 armor-naming exchange QUEUED Ch.4 · F-014 cheeseburger Friday tradition opens Ch.4.
+- **Open threads:** F-001 TRANSFORMED · F-009 dormant (sheet-unlifted) · F-012 OPEN (arc-reactor secret kept at character layer per CAMERA LAW P12-AMENDMENT) · F-013 naming exchange DELIVERED (Ch.4; ranks-after-the-boy law stands) · F-014 Friday tradition OPENED · F-015 Coulson's Tuesday booked.
 - **Next deliverable:** Chapter Four — workshop rebirth / weapons-division storm (IM1 beats 13+, per `foundation/MCU_TIMELINE.md` v4). Camera goes where canon goes (P12-AMENDMENT), receipts first (CANON ACCESS), film order (P13), plural canon-side panels (P14).
 
 ---
