@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0-mark",
+  "updated": "2026-09-21",
+  "purpose": "Machine-readable current-state manifest for the Mark Stark MCU fic. Powers tools/mcu_verify.py.",
+  "latest_fic_chapter": 3,
+  "latest_fic_title": "The Return",
+  "latest_fic_file": "chapters/Chapter_03_The_Return.md",
+  "canon_consumed_through": {
+    "note": "IM1 FULL — opening span, captivity arc (cave staged: awakening→weeks→escape→find), return span incl. chest-swap. DECLARED omissions reduced to: military hospital (film does not stage). THREAD: Mark knows nothing of chest/arc (F-012, character-layer). All [reported]; film re-verify queued before second visits."
+  },
+  "next_fic_chapter": 4,
+  "next_beat": "Aftermath weeks: weapons-shutdown storms (board, press), Obadiah's stewardship friction, Mark's optics-promise staged, Tony rebuilding workshop rhythm (his private lab work deferred in-scene), Mark's practice/growth continuation, first public world-design ripple",
+  "current_state": {
+    "mark": "Twelve. Reunited with Dad (layered readback matured: Dad's warm carries canyon-grief + new guard-up stillness; nothing lean). Watched shutdown conference. Countered Obadiah's optics-ask with his own optics-literacy. Notebook discipline steady. Extension/TK-dimmer ledger intact. Albatross dormant in wadi hide.",
+    "tony": "Home. Sling, ribs hurt (wince hidden, 'blames the desert' — flagged F-012, human-only cue). Chest/arc secret intact from Mark (closed beat declared). Shutdown declared publicly; board storm brewing. Did not lift bench sheet.",
+    "household": "Pepper airport-armor/fidelity; Happy-flinch-noted (T-12 shared nod); Obadiah stewardship + parlor dinner done; optics-one-step-below-choke-point accepted.",
+    "firewalls": "Powers secret from all. Obadiah guilt unknown. Afghanistan closed. Telepathy closed."
+  },
+  "forbidden_now": [
+    "No Core Stage 3 before natural trigger",
+    "No deliberate telekinesis (State 1-2 seed only)",
+    "No telepathic reading or sending (State 1 closed)",
+    "No psychic shields (no controlled energy manipulation)",
+    "No parsed suspicion of Obadiah before canon timing",
+    "No public or Tony-facing power reveal",
+    "No influence on Afghanistan canon events",
+    "No knowledge beyond evidence (genius inference stays proportional)",
+    "No digits in prose, no chapter footers, no CJK anywhere"
+  ],
+  "checker": {
+    "command": "python3 tools/mcu_verify.py",
+    "selftest": "python3 tools/mcu_verify.py --selftest",
+    "pass_definition": "exit 0 with FAIL=0 across all gates + manifest edge matches chapters on disk"
+  }
+}
