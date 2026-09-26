@@ -5,7 +5,7 @@
 - **Canon consumed:** IM1 beats 1–15 staged in film order (ambush → cave arc → find → runway → conference → chest-swap → *workshop rebirth complete: build bench, flight log one, first flight, altitude/icing, roof-and-piano* → hot-rod red over the Gulmira broadcast → benefit gala: Coulson name-gag, dance, balcony, Everhart photos, Tony's exit). Declared off-page: military hospital only. Next span opens with the Gulmira sortie.
 - **Craft line:** Extension (arm-reach range), the TK-seed's latency-taught granularity lab, the dimmer's voluntary depth labeling — benchmarks intact; growth logged per Chapter 2–3 ledgers; law violations ZERO. Latest power audits filed in the coverage files.
 - **Open threads:** F-001 TRANSFORMED · F-009 dormant (sheet-unlifted) · F-012 OPEN (arc-reactor secret kept at character layer per CAMERA LAW P12-AMENDMENT) · F-013 naming exchange DELIVERED (Ch.4; ranks-after-the-boy law stands) · F-014 Friday tradition OPENED · F-015 Coulson's Tuesday booked.
-- **Next deliverable:** Chapter Four — workshop rebirth / weapons-division storm (IM1 beats 13+, per `foundation/MCU_TIMELINE.md` v4). Camera goes where canon goes (P12-AMENDMENT), receipts first (CANON ACCESS), film order (P13), plural canon-side panels (P14).
+- **Next deliverable:** Chapter Five — Gulmira (the sortie, the jets, the tank-punch; then the board lockout) — IM1 beats 16+ per `foundation/MCU_TIMELINE.md` v4, staged scene-by-scene film order. Camera goes where canon goes (P12-AMENDMENT), receipts first (CANON ACCESS), film order (P13), plural canon-side panels (P14). Ch.4 workshop rebirth complete (build bench, flight log one, first flight, altitude/icing, roof-and-piano, hot-rod red, gala Everhart photos).
 
 ---
 
