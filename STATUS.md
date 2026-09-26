@@ -11,6 +11,8 @@
 
 - `Chapter_04_The_Workshop_Rebirth.md` (32,225 B · 5,537 words) — Ch.4 — IM1 beats 13–15 · naming exchange · gates PASS
 
+- `Chapter_05_Gulmira.md` (29,896 B · 4,798 words) — Ch.5 — IM1 beats 16–19 · sortie/jets/camp/injunction · gates PASS
+
 ## foundation/
 - `ADAPTATION_TALENT_STUDY.md` (7,996 B) — Talent doctrine study
 - `CONTINUITY.md` (2,871 B) — open threads F-001..F-014

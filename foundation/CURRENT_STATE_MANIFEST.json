@@ -1,18 +1,18 @@
 {
   "schema_version": "1.0-mark",
-  "updated": "2026-09-24",
+  "updated": "2026-09-26",
   "purpose": "Machine-readable current-state manifest for the Mark Stark MCU fic. Powers tools/mcu_verify.py.",
-  "latest_fic_chapter": 4,
-  "latest_fic_title": "The Workshop Rebirth",
-  "latest_fic_file": "chapters/Chapter_04_The_Workshop_Rebirth.md",
+  "latest_fic_chapter": 5,
+  "latest_fic_title": "Gulmira",
+  "latest_fic_file": "chapters/Chapter_05_Gulmira.md",
   "canon_consumed_through": {
-    "note": "IM1 FULL through beat 15: opening span, captivity arc, return span incl. chest-swap, workshop rebirth complete (build, flight log one, first flight, altitude/icing, roof-and-piano), hot-rod red decided over the Gulmira broadcast, benefit gala (Coulson name-gag + Tuesday, dress, dance, hand-kiss rumor, balcony, Everhart photos, Tony's exit). DECLARED omissions: military hospital only. Gulmira sortie = next span (chapter five, film order). THREAD: Mark knows suits-only, never the arc (F-012 intact). All [reported]; film re-verify queued before second visits."
+    "note": "IM1 FULL through beat 19: opening, captivity, return, workshop rebirth, Gulmira sortie (village saved, leader handed to villagers, tank walk-away), jet intercept (canopy graze, failing parachute caught — no-harm-to-servicemen rule set), Rhodey cover begun, Raza camp sonic paralysis + Mark One salvage + sector sixteen seeded, Malibu injunction reveal + mini-arc glimpse. DECLARED omissions: military hospital only. F-012 intact (Mark: suits only, never arc; ribs-flag discipline). Epithet 'Iron Man' not yet uttered (metal-man seeding only; finale chapter crystallizes)."
   },
-  "next_fic_chapter": 5,
-  "next_beat": "Gulmira sortie staged full (canon): Yinsen's town honored, tank punch, village saved → US jets intercept → Rhodey cover, aftermath: Obadiah office confrontation (board lockout) → sector sixteen seeds → arc theft setup. Mark-side: the world's first Iron Man coverage reaches his screens (human-means only), F-012 tension tightens, Extensions/loiter discipline holds, tradition Fridays hold.",
+  "next_fic_chapter": 6,
+  "next_beat": "Pepper's SI hack → sector sixteen visuals + Obadiah's deal documented (canon) → chest-arc theft paralytic night (Pepper's gift saves him) → Coulson loop tightened → Iron Monger build-under shadow → Chapter six stages theft; Chapter seven Iron Monger battle + 'I am Iron Man' + Fury tag.",
   "current_state": {
-    "mark": "Twelve. Tradition holds (Fridays, cheeseburgers). Naming exchange received (T-14 spent-debut, thread ongoing). Saw suits, never arc (F-012). Notebook discipline + entry twenty-four. Albatross dormant watch; Extension loiter evenings only.",
-    "tony": "Mark Two complete incl. first flight + icing/piano incident (JARVIS cover). Red coat decided after Gulmira broadcast. Gala done: dance with Pepper, balcony photographed by Everhart. Left the party for the sortie. Obadiah unaware of red plan.",
+    "mark": "Twelve. Fridays hold (week three). Naming law public-facing in-story racks. Watched Gulmira coverage by human means only — discipline held under provocation, logged. Obadiah texture-only firewall held. Albatross evenings-check dormant. Entry twenty-five.",
+    "tony": "Mark Three flown and blooded (Gulmira). Jets evaded; pilot's chute saved by hand; Rhodey knows (limited) and covers. Board injunction revealed as Obadiah's own filings — Tony chose not to fight in public. Does not yet know about sector sixteen.",
     "household": "Pepper airport-armor/fidelity; Happy-flinch-noted (T-12 shared nod); Obadiah stewardship + parlor dinner done; optics-one-step-below-choke-point accepted.",
     "firewalls": "Powers secret from all. Obadiah guilt unknown. Afghanistan closed. Telepathy closed."
   },

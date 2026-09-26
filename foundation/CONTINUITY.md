@@ -41,3 +41,6 @@ F-014 cheeseburger tradition (father-son texture; seeded Ch3 dinner, tradition f
 F-013 the armor naming — DEBUT DELIVERED Ch.4 panel four ("why Mark Two" answered on page; armor family named for the son; future suits continue the law) — TRANSFORMED→standing law of the racks.
 F-014 cheeseburger Fridays — OPENED Ch.4 panel one (quorum of two, Happy included) — standing tradition.
 F-015 Coulson's Tuesday — Pepper booked the debrief for Tuesday (canon name-gag staged); defaults to film outcome — OPEN.
+F-016 sector sixteen seeded (canon; via Raza camp parley staged, dark register) — OPEN (Tony unaware; Pepper's hack = ch6 cause-preserving discovery).
+F-015 Coulson Tuesday — deferred by Pepper's ledger (fuzzy, outcome-none) — OPEN.
+F-017 the unborn epithet (media says 'metal man' only; canonical naming reserved for finale) — OPEN.

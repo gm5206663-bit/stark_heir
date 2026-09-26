@@ -6,7 +6,7 @@ Public heir. Hidden mutation. A Talent older than his first breath.
 
 **Start:** Chapter One opens at Iron Man 1 (2008). He is twelve.
 
-**Status (2026-09-24):** V1 EPOCH — **4 chapters shipped and gated** (Ch.2 v2: 6,231; Ch.3 v3: 4,909; Ch.4: 5,467 words · `tools/mcu_verify.py` PASS, zero-digit, zero-CJK). Canon consumed: **Iron Man 1 beats 1–15**, staged scene-by-scene in film order (ambush → cave → find → return → chest-swap → workshop rebirth complete → gala and the Everhart photographs). Next: **Chapter Five** — Gulmira (the sortie, the jets, the tank-punch; then the board lockout).
+**Status (2026-09-24):** V1 EPOCH — **5 chapters shipped and gated** (Ch.2 v2: 6,231; Ch.3 v3: 4,909; Ch.4: 5,467 words · `tools/mcu_verify.py` PASS, zero-digit, zero-CJK). Canon consumed: **Iron Man 1 beats 1–19**, staged scene-by-scene in film order (ambush → cave → return → workshop rebirth → gala → **Gulmira sortie** → jet intercept and the caught parachute → Raza camp + Mark One salvage → the Malibu injunction). Next: **Chapter Six** — Pepper's hack, the theft of the heart, the count toward Iron Monger.
 
 **The doctrine:** canon runs *on the page*, complete and unskipped, in film order, from plural canon-side panels (P12 + P12-AMENDMENT camera law, P13, P14). The OC lives braided around it with absolute canon ownership. A butterfly is only logged when the two tracks touch on the page (T-registry in `foundation/MCU_TIMELINE.md`, incl. T-14: the armor family is canon-designated *Mark* because that is his name — origin-stage queued for Ch.4).
 
