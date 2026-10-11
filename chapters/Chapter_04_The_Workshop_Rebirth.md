@@ -62,7 +62,7 @@ JARVIS counted down with the gravity of a man reading a toast — *boots will po
 
 By the end of the week a gauntlet could put a beam through the far wall, and the beam no longer cared which button Tony remembered pressing. The lab had completed the exercise the defense industry had doubted from him for twenty years, which was, stated plainly, the same exercise every time: up. Hover. Land. Adjust. Up again.
 
-Mark came down at ten on Friday with sandwiches, because the new law had quietly annexed the idea that a father who skipped dinner owed the island two grilled cheeses, and found his father holding the left gauntlet up at eye level, watching the light through the palm's iris — small, white-hot, and utterly contained, like a coal behind a grate that knew the household was asleep and had loosened its collar accordingly.
+Mark came down at ten on Friday with sandwiches, because the new law had quietly annexed the idea that a father who skipped dinner owed the island two grilled cheeses. And found his father holding the left gauntlet up at eye level, watching the light through the palm's iris — small, white-hot, and utterly contained, like a coal behind a grate that knew the household was asleep and had loosened its collar accordingly.
 
 "Flight log one," Tony said to no one in particular, setting the gauntlet down at last. "Date: current. Objective: everything." He thought about it. "JARVIS. Formal. For the record."
 
@@ -84,7 +84,7 @@ Out over Point Dume, out over the morning's clean white frame of fog, the gold f
 
 "Noted."
 
-The sea's rim swung past. The coastline curled like a signature practicing itself. And because Tony Stark was who he was, the flight did not simply end — it ended with the suit standing on the sky at a comfortable remove above all radar taxonomies, drawing smoke letters with the joy particular to a man who has only just learned that his own name can be written in weather: S — T — A — R — K, patient and huge and already dissolving in the sea's long exhale, though not before half the brunch crowd on the coast road had reason to phone someone about it.
+The sea's rim swung past. The coastline curled like a signature practicing itself. And because Tony Stark was who he was, the flight did not simply end — it ended with the suit standing on the sky at a comfortable remove above all radar taxonomies, drawing smoke letters with the joy particular to a man who has only just learned that his own name can be written in weather: S. T — A — R — K, patient and huge and already dissolving in the sea's long exhale, though not before half the brunch crowd on the coast road had reason to phone someone about it.
 
 Mark saw the first letter from his window and set the textbook down very carefully. The notebook had rules — observe, don't dramatize; report the fact without the wish — and there was no rule under which *my father writes his name on the city* could be entered without breaking both. He entered it anyway. In the smallest hand he owned: *The sky knew his name today.*
 
@@ -164,7 +164,7 @@ He was past forty thousand feet with the coastline gone to abstraction and the t
 
 Fifty. Sixty. The sky thinned to blackened blue, the curvature's rumor beginning to lean in at the edges, and the ice came around him the way the desert had once come around him — not to kill him maliciously, just to count the steps until the cold could collect. Sensor by sensor, the channels failed courteous little blurps; JARVIS's voice thinned; the suit went dead at his back — and Tony Stark fell out of the sky.
 
-He fell the way he'd fallen before — suit-shaped, screaming telemetry, the panic commandeered into fingers — boots re-primed, reboot, primed again, the checklist running itself at the speed of a heart trying to stay growth-sized — and out over the water, with the house glimmering on the cliff like a Christmas someone owed him, the main thrusters reignited with an oath of light.
+He fell the way he'd fallen before — suit-shaped, screaming telemetry, the panic commandeered into fingers — boots re-primed, reboot, primed again, the checklist running itself at the speed of a heart trying to stay growth-sized. And out over the water, with the house glimmering on the cliff like a Christmas someone owed him, the main thrusters reignited with an oath of light.
 
 "Ignition systems returning online, sir," JARVIS said, unruffled, as if reporting the arrival of the morning papers. "Welcome back."
 
@@ -240,7 +240,7 @@ She stopped walking at the complete plague of it. "That's a mouthful."
 
 He watched her pull out with the still patience of a man who had gotten exactly what he had come for: Tuesday.
 
-Saturday arrived on wire wheels. The dress Pepper had tried on in the home mirror downstairs on Thursday, with the aid of the sewing mirror lent by the apartment's long reflection — backless, rainy-sky blue — had managed the week; she stepped out the front door in it as the first stars showed up for the coast, and Tony, at the ignition end of the car lineup already running, squashed both eyes like a camera framing something he hadn't commissioned.
+Saturday arrived on wire wheels. The dress Pepper had tried on in the home mirror downstairs on Thursday, with the aid of the sewing mirror lent by the apartment's long reflection — backless, rainy-sky blue — had managed the week. She stepped out the front door in it as the first stars showed up for the coast, and Tony, at the ignition end of the car lineup already running, squashed both eyes like a camera framing something he hadn't commissioned.
 
 "Well," he said. "Somebody got there before I could."
 
@@ -314,7 +314,7 @@ Pepper caught his sleeve at the door. "Tony, what is it — where are you going�
 
 "To build better," he said softly. "Keep my seat warm for me, Pep."
 
-The car went down the hill before the speculation could encircle the vale; the night felt it — the shift in pressure was rural-quiet, the kind newsrooms would still be taking apart in the morning — and at the cliff house, in the workshop below the rooms that had allowed slight light to show Friday night open, the red suit was already downward from the rack when the engine hit the driveway.
+The car went down the hill before the speculation could encircle the vale; the night felt it — the shift in pressure was rural-quiet, the kind newsrooms would still be taking apart in the morning. And at the cliff house, in the workshop below the rooms that had allowed slight light to show Friday night open, the red suit was already downward from the rack when the engine hit the driveway.
 
 ---
 
@@ -334,6 +334,6 @@ He set the pencil down. Put the notebook away. Then, because this was the room's
 
 "Good night, Dad."
 
-The lamp watched with its small cold steadiness. JARVIS, in the walls, kept the porter's night-shift over all of their secrets — the suit's red registration headed south over the ocean, the boy's entry sealed in a notebook, the plaque on the bench — *Proof that Tony Stark has a heart* — its three words unmoving through the dark of the room where both halves of that dawning life — father in the sky, son in the notebook — were working at being alive.
+The lamp watched with its small cold steadiness. JARVIS, in the walls, kept the porter's night-shift over all of their secrets — the suit's red registration headed south over the ocean, the boy's entry sealed in a notebook, the plaque on the bench. *Proof that Tony Stark has a heart* — its three words unmoving through the dark of the room where both halves of that dawning life — father in the sky, son in the notebook — were working at being alive.
 
 "Remember sandwiches," Mark finished, and slept.

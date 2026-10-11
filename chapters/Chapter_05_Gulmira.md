@@ -16,7 +16,7 @@ SEED: media epithet still unborn ("metal man" only) · F-012 airborne-closed at 
 
 The workshop did not go to bed with the city.
 
-Tony returned from the gala with the photographs in his jacket pocket — damp through the emulsion where his fist had never unclenched all the way down the hill — and he laid them on the central bench in sequence, in the family order he'd invented that night without deciding: village first, men second, the shell with his name third, so the benches' courtyard of tools would have to look at it every time he turned around. Then he ate half of a deli tray Pepper had left under wrap from before-gala, called it breakfast by clock, and went to the racks.
+Tony returned from the gala with the photographs in his jacket pocket — damp through the emulsion where his fist had never unclenched all the way down the hill. And he laid them on the central bench in sequence, in the family order he'd invented that night without deciding: village first, men second, the shell with his name third, so the benches' courtyard of tools would have to look at it every time he turned around. Then he ate half of a deli tray Pepper had left under wrap from before-gala, called it breakfast by clock, and went to the racks.
 
 "JARVIS. Pull the flight data. All of it. Icing logs, the climb to crown, the dock-down, the walk-back."
 
@@ -28,7 +28,7 @@ Tony returned from the gala with the photographs in his jacket pocket — damp t
 
 "Hot rod red. We keep the stencil. Mark Three." The racks were the racks: naming already had a jurisprudence in this house, oath-sworn by stew and laughter and the empty fourth cradle. Mark Three. "Let's paint an apology."
 
-The booth machinery ran into the body's fourteenth ending, lining straps, thimbles; JARVIS's precision travel of the chroming loads red-escort the gold plate sections; it DREAMED of him if the man had ever wanted a coat of armor before — long-taboo repulsor-lenses waking as joy, the boots thickening the rested-for-war pattern they'd meant to wear against formerly black scars, the whole neuromasculature warming itself before the core ever touched it — and somewhere between the twilight of that industry's hour and the dawn's rigorous clock, the red-and-gold armor Mark Three waited ready on the rack, and Pepper walked down, black-tied still tired, fresh in cardigan-gray? And looked sideways:
+The booth machinery ran into the body's fourteenth ending, lining straps, thimbles; JARVIS's precision travel of the chroming loads red-escort the gold plate sections; it DREAMED of him if the man had ever wanted a coat of armor before. Long-taboo repulsor-lenses waking as joy, the boots thickening the rested-for-war pattern they'd meant to wear against formerly black scars, the whole neuromasculature warming itself before the core ever touched it. And somewhere between the twilight of that industry's hour and the dawn's rigorous clock, the red-and-gold armor Mark Three waited ready on the rack, and Pepper walked down, black-tied still tired, fresh in cardigan-gray? And looked sideways:
 
 "Tony."
 
@@ -58,7 +58,7 @@ Men were driving women out of houses. Old women, first — the imprecise tyranny
 
 One father — the man was a shopkeeper, had someone's ribbon in his pocket — driven to his knees in the dirt, flagging down enormity; the leader — Raza's officer, the man with the absolute gun, scorn through Mirage who had personal language like a rolled whisper —
 
-— and the red-and-gold armor came out of the cornice like sunrise itself uncoupled, tall against the sun-blue monsoon, at full atempo speed: — dumb attacks, he registered, calculating airspeed: — repulsors comes out ahead of him: the crack unseats the leader's arm like furniture crashing a vase against air-gravity itself, hurling the man backward unknowable through a crumbled wall of suicidal distance, and the village got to keep the rising; and the women forgot to cry interference in amazement and started taking their sons to the noontime, crying other things entirely.
+— and the red-and-gold armor came out of the cornice like sunrise itself uncoupled, tall against the sun-blue monsoon, at full atempo speed: — dumb attacks, he registered, calculating airspeed:. Repulsors comes out ahead of him: the crack unseats the leader's arm like furniture crashing a vase against air-gravity itself, hurling the man backward unknowable through a crumbled wall of suicidal distance. And the village got to keep the rising; and the women forgot to cry interference in amazement and started taking their sons to the noontime, crying other things entirely.
 
 The villagers' study of him was hectares measured on a you-nickel moment: — landing still, boot-roofs shifting sideways, the red flash closing in from the near-door steps of vehicles,
 
@@ -206,7 +206,7 @@ The pizza landed on a fitting marble. Obadiah in his old ascent had the excellen
 
 "The board doesn't think that way, Tony." — and here came the beloved civic scholastic armor: the entire interim deck of covenants that no punishing report had the bodily courage to refuse —"—the board has, Tony. I mean it literally. They're filing an injunction against you. It means—" sighing, voice dropped fully to a twice-national sorrow — "you can't make decisions for the company, during the injunction — I *fought* it. Of course. I don't—"
 
-He didn't name the engineers at locking the patron in his bus stop. He didn't mention that he'd filed *them*. He didn't mention what the cavity would reveal under the shirt of a tired engineer at the counter, which laboratory-desktop cracked light admitted faint through the pressure-sensitive fabric — the cold blue-white ember of the arc that no audience — not the press, not the board, not the son upstairs hearing only through the pipes' faint wool-muffle — have so far granted: — thrumming, patient machinery, keep-alive debt — Raza's inventory being somewhere overseas under name-bran meltdown.
+He didn't name the engineers at locking the patron in his bus stop. He didn't mention that he'd filed *them*. He didn't mention what the cavity would reveal under the shirt of a tired engineer at the counter, which laboratory-desktop cracked light admitted faint through the pressure-sensitive fabric — the cold blue-white ember of the arc that no audience. Not the press, not the board, not the son upstairs hearing only through the pipes' faint wool-muffle — have so far granted: — thrumming, patient machinery, keep-alive debt — Raza's inventory being somewhere overseas under name-bran meltdown.
 
 Carefully, Obadiah turned a half-step away from the buttoned front of that shirt — politely incurious about the patient cold-blue ember most of the world had not yet been given permission to see. He had his own ways of reading imbalance. Casually, as one drinks coffee:
 
@@ -226,7 +226,7 @@ Half the room's professions-mask went up in pleasant atmosphere at this final co
 
 "The name." Obadiah smiled — heart-opening jewelry gears of contract steady, perfectly played pride — "Howard would *love* that."
 
-And when he was gone — door latched, seablind quiet reload of engines at the panel-lib: — Mark came down after the driveway's gravel had gone quiet, boots timed to the engine's fading, and found his father still in front of the racks — shirt still buttoned, head angled down, standing the full ten minutes a man stands when the only thing in hand is a ledger too proud to speak aloud:
+And when he was gone — door latched, seablind quiet reload of engines at the panel-lib: — Mark came down after the driveway's gravel had gone quiet, boots timed to the engine's fading. And found his father still in front of the racks — shirt still buttoned, head angled down, standing the full ten minutes a man stands when the only thing in hand is a ledger too proud to speak aloud:
 
 — and *thought*, with the notebook's plain notation behind his eyes: Dad's frown has a new depth today —
 
@@ -258,7 +258,7 @@ The week's count well-advertised: result good.
 
 *PANEL EIGHT — ENTRY TWENTY-FIVE*
 
-That night — after pizza had rolled up the hill and the injunction-worry lay occupying every stone between the racks and the surf — after Tony and Pepper had talked beautiful umbrella-free signals on the back terrace the boy only half-heard through the ducts — after the town of Gulmira had entered and held the news's airwaves for its forty-eighth consecutive hour — Mark closed the notebook and went to the lamp.
+That night — after pizza had rolled up the hill and the injunction-worry lay occupying every stone between the racks and the surf — after Tony and Pepper had talked beautiful umbrella-free signals on the back terrace the boy only half-heard through the ducts. After the town of Gulmira had entered and held the news's airwaves for its forty-eighth consecutive hour — Mark closed the notebook and went to the lamp.
 
 The lamp — the tritium-born thing commissioned in the harder years, cold and forever and impossible to blow out, that was the point — kept its post as it always had, a fixture of the boyhood chapel. Under it, the notebook spread flat like a laundry receipt — *entry twenty-five* — and the pages had grown their confidence around one ordinary Sunday truth set after the other:
 

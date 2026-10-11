@@ -193,7 +193,7 @@ The Fun-vee lived up to its name by approximately nobody's measurement, and the 
 
 The Humvee went laughing, the sergeant included.
 
-"Show me yours, I'll show you mine," Tony said, delighted, and had his own phone out before Jimmy had finished unlocking his — and there it was, offered around the cab with the total shamelessness of a gambler showing aces: Mark at the workbench, molasses-blond, chin on one fist, scowling down a disassembled servo with an intensity no twelve-year-old should be allowed to aim at machinery. "Mine builds drones. Talks back in two languages. Has already cost me two tutors and a projectile incident we're not cleared to discuss. Twelve years old. *Smarter than my board.*"
+"Show me yours, I'll show you mine," Tony said, delighted, and had his own phone out before Jimmy had finished unlocking his. And there it was, offered around the cab with the total shamelessness of a gambler showing aces: Mark at the workbench, molasses-blond, chin on one fist, scowling down a disassembled servo with an intensity no twelve-year-old should be allowed to aim at machinery. "Mine builds drones. Talks back in two languages. Has already cost me two tutors and a projectile incident we're not cleared to discuss. Twelve years old. *Smarter than my board.*"
 
 "That's a handsome kid, sir," the corporal in the turret said down through the hatch.
 
@@ -215,7 +215,7 @@ It was not a sound so much as the world deciding to be a different shape. The Hu
 
 Jimmy's phone slid across the cab floor, face up, the photo still on it.
 
-Tony sat very still for one second, the way men do when arithmetic arrives uninvited. Then he was moving — out the door, low, the ground kicking at his shoes — and the corporal was down beside the turret and Jimmy was against the wheel arch firing back at the ridge, shouting something the noise chewed to nothing, and Tony went for better cover the way a lost man goes for a landmark, and the ridge answered.
+Tony sat very still for one second, the way men do when arithmetic arrives uninvited. Then he was moving — out the door, low, the ground kicking at his shoes — and the corporal was down beside the turret and Jimmy was against the wheel arch firing back at the ridge, shouting something the noise chewed to nothing. And Tony went for better cover the way a lost man goes for a landmark, and the ridge answered.
 
 The shell came in close enough to read.
 
@@ -327,7 +327,7 @@ At eleven the front gate rumbled.
 
 Obadiah Stane came in like the person the house had been bracing for: beard, bulk, peppermints, the coat settling as it always settled, arms out. "There's my boy." He crossed into the shop and took the whole scene in — the band, the guard, the boy in yesterday's t-shirt — and landed at Mark.
 
-Mark got up. Went, because he needed it, because Uncle Obie had been the cape of this family's missed dinners since before Mark could read — and because the *shallow* was there, sure as tide: the surface saying *warm, father-figure, steady*, arms performing at the exact pressure and direction of the real thing, and yet the feeling stopped inches under the cheek, cool like a lamp with the light off. He'd never once written this down. It was normal, in the tax grown-ups paid on themselves: everyone painted surfaces sometimes. Pepper painted steady. Happy painted calm. Everyone did it sometimes.
+Mark got up. Went, because he needed it, because Uncle Obie had been the cape of this family's missed dinners since before Mark could read. And because the *shallow* was there, sure as tide: the surface saying *warm, father-figure, steady*, arms performing at the exact pressure and direction of the real thing, and yet the feeling stopped inches under the cheek, cool like a lamp with the light off. He'd never once written this down. It was normal, in the tax grown-ups paid on themselves: everyone painted surfaces sometimes. Pepper painted steady. Happy painted calm. Everyone did it sometimes.
 
 Mark pressed in anyway, stayed eight whole seconds past strict boy-need — and let his attention slide off the readback. Not analysis. Not searching. Just letting the hug be a hug. The reflex arrived new: his sensing loosened, the way you stop pressing an ear to a door, and the strain he hadn't known he was carrying let go of his shoulder-blades. *Datum,* the whole week filed somewhere below words: *off is also a position.*
 

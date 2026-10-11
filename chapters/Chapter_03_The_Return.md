@@ -78,7 +78,7 @@ In the back, Christine Everhart didn't sit down. She kept her recorder up and he
 
 Somebody laughed. Then more people did.
 
-Tony took his time — one more bite — and then set the burger aside on the wax paper with the ceremony you'd give a chess clock sealing a move, and got to his feet with a wince he did not let anybody make into a headline, and stood at the podium in front of his own logo and his own flags.
+Tony took his time — one more bite — and then set the burger aside on the wax paper with the ceremony you'd give a chess clock sealing a move. And got to his feet with a wince he did not let anybody make into a headline, and stood at the podium in front of his own logo and his own flags.
 
 "I came back from a demonstration in Kunar," he said, and the room went very quiet. "And I came back changed. I saw young Americans killed by what I'd built to protect them. I saw—" a pause, the floor of the room holding its breath, "—that I'd become part of a system that's comfortable with zero accountability. For the profit. For the quarter. For the—" his good hand cut the air, wearily, a man finished with abstractions, "for everything. And I remember thinking: if this is my company — if it's my *name* on the side of it — maybe I personally should have more to offer this world than things that blow up."
 
@@ -108,7 +108,7 @@ The conference broke up like weather.
 
 *MALIBU — THE WORKSHOP, SAME AFTERNOON (cross-panel)*
 
-Mark watched it on the workshop screen with JARVIS quiet above him like a held guttering note, and Happy home by then, and Pepper's car coming up the road with Dad in it — he knew the engine, the coast road order of it, a recognition older than any of the rest — and the screen showed Dad at the podium in army green, saying words that were already changing the company, and Mark's hands were still among the solder trash, perfectly still, the way his hands went when the world's record started to happen without him.
+Mark watched it on the workshop screen with JARVIS quiet above him like a held guttering note, and Happy home by then, and Pepper's car coming up the road with Dad in it — he knew the engine, the coast road order of it, a recognition older than any of the rest. And the screen showed Dad at the podium in army green, saying words that were already changing the company, and Mark's hands were still among the solder trash, perfectly still, the way his hands went when the world's record started to happen without him.
 
 "Obadiah's covering," JARVIS said quietly, watching the reaction shots.
 
@@ -126,7 +126,7 @@ The house that had held its breath for three months finally, at last, exhaled �
 
 Mark was on the door lintel before Happy cut the engine.
 
-The door opened. Dad got out. Thinner. Browner. The sling in army green, the borrowed years of him worn deep in every pocket, the face cut down into planes Mark didn't remember. Behind him Pepper in airport armor, the water laid bright below the cliff, and the whole picture stood in hard noon light like a live frame of the word *home* — and all of that was *outside* — Mark registered it at remainder's distance, the whole catalogue frozen mid-entry — because three months of lights-off had issued standing orders without asking him, and somewhere under the surface of the boy he'd been running all summer, something said *get to him.*
+The door opened. Dad got out. Thinner. Browner. The sling in army green, the borrowed years of him worn deep in every pocket, the face cut down into planes Mark didn't remember. Behind him Pepper in airport armor, the water laid bright below the cliff, and the whole picture stood in hard noon light like a live frame of the word *home* — and all of that was *outside*. Mark registered it at remainder's distance, the whole catalogue frozen mid-entry — because three months of lights-off had issued standing orders without asking him, and somewhere under the surface of the boy he'd been running all summer, something said *get to him.*
 
 He didn't run. He walked, twelve years old and not fooling anyone in this family, down the driveway in bare feet. Dad saw him come, and the famous face did the thing it only did for family — the rear wall of expression gone entirely off its hinges, everything welcome in — and Mark stepped in close and put his arms around his father's good side, low-to-high, twelve years' hold-all.
 
@@ -152,7 +152,7 @@ Tony looked at the sky behind him — genuinely theatrical — the eyes wet and 
 
 "Deal," Mark said, and held on, taller than Dad remembered him, and Dad held them both up like the sky had agreed to one more season of digging in.
 
-Outside them both, Pepper stood with her hands at her mouth in a way from which nothing quiet was defensible ever after, and Happy stood beside her with a driver's passive look that he wore when the losses got buried in the earnings column, and the ocean rolled itself through ordinary reports below the cliff, and nobody moved until it was right, and the afternoon grew quiet — the first real quiet of the season.
+Outside them both, Pepper stood with her hands at her mouth in a way from which nothing quiet was defensible ever after, and Happy stood beside her with a driver's passive look that he wore when the losses got buried in the earnings column. And the ocean rolled itself through ordinary reports below the cliff, and nobody moved until it was right, and the afternoon grew quiet — the first real quiet of the season.
 
 "It's okay, Dad," Mark said. "I have notes. Later you'll have to read them. Not all of them, some. And the sling's ugly. I said it first."
 

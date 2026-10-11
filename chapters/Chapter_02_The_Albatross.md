@@ -86,7 +86,7 @@ Tony looked at the wires running out of himself like vines out of an old house. 
 
 The bench held the decision the way the bench held everything: in parts, laid out in the order his hands would need them.
 
-He'd stopped trying the paper by then. The paper had won, four entries running, and the night after the fourth failure he'd sat in the blue lamplight and written: *when the ink runs out, build the pen.* Because ink — whatever had snapped a blade guard across a room — ink did not answer questions, did not take requests, did not get on any schedule a twelve-year-old could hold. But the house was full of answers that did.
+He'd stopped trying the paper by then. The paper had won, four entries running, and the night after the fourth failure he'd sat in the blue lamplight and written: *when the ink runs out, build the pen.* Because ink. Whatever had snapped a blade guard across a room — ink did not answer questions, did not take requests, did not get on any schedule a twelve-year-old could hold. But the house was full of answers that did.
 
 JARVIS found the blueprint where Mark had started it — a folder called ALBATROSS — at three in the morning, which was also when JARVIS chose to start the argument.
 
@@ -108,7 +108,7 @@ Mark set the spar down, and looked at the ceiling camera the way he'd learned to
 
 And there it was — the heart of it, laid between them like the last part on the bench.
 
-The house knew his head better than any hospital on earth. It knew it from the slumber years, from the special-disease years, from years of ceilings full of careful medical attention: the scalp nets they'd fitted him at age seven, month upon month of readings nobody had ever quite explained, the couch in the workshop's med corner printed with the shape of his sleeping body, the archive of ten thousand hours of *Mark Stark, asleep, breathing, wrong, unexplainable.* He'd read that archive at ten the way other kids read forbidden comics.
+The house knew his head better than any hospital on earth. It knew it from the slumber years, from the special-disease years, from years of ceilings full of careful medical attention: the scalp nets they'd fitted him at age seven, month upon month of readings nobody had ever quite explained. The couch in the workshop's med corner printed with the shape of his sleeping body, the archive of ten thousand hours of *Mark Stark, asleep, breathing, wrong, unexplainable.* He'd read that archive at ten the way other kids read forbidden comics.
 
 He knew neuro-bridges the way other kids knew bicycle chains.
 
@@ -130,7 +130,7 @@ A pause, softer. "Then your father gets a better class of rescue than I was buil
 
 The first one crashed into the pool.
 
-It was called mk-I, and it crashed because cliff wind lies, and because Mark, synced for the first real session, had made the universal mistake of flying a bird with a boy's body still attached somewhere else — vertigo folding him over the bench mid-hover, gut rolling, the link's borrowed horizon tipping impossible directions, so that he retched into the wastebasket at the exact moment the airframe stalled; and it went down like a white prayer into the deep end and steamed politely.
+It was called mk-I, and it crashed because cliff wind lies, and because Mark, synced for the first real session, had made the universal mistake of flying a bird with a boy's body still attached somewhere else. Vertigo folding him over the bench mid-hover, gut rolling, the link's borrowed horizon tipping impossible directions, so that he retched into the wastebasket at the exact moment the airframe stalled; and it went down like a white prayer into the deep end and steamed politely.
 
 Happy stood at the workshop door with a towel and an expression Mark had last seen after the motorcycle cliff argument.
 
@@ -208,7 +208,7 @@ The helicopter over the water stopped being weather in week six and started bein
 
 The screw-hold came in month two's tail end, the way it always came: not when he was asking.
 
-The workshop light had gone amber toward evening; the bench was laid with the mk-II's port wing; he reached for a dropped M-three screw rolling toward the floor vent, and without deciding anything about it — without ink, without prayer — he just *had* it, mid-roll, an inch off the plenum tile, three rounded seconds of total disciplineless science fiction hanging there in the amber light, perfectly still, the screw reflecting his own dark pupil while his breathing counted itself.
+The workshop light had gone amber toward evening; the bench was laid with the mk-II's port wing; he reached for a dropped M-three screw rolling toward the floor vent, and without deciding anything about it. Without ink, without prayer — he just *had* it, mid-roll, an inch off the plenum tile, three rounded seconds of total disciplineless science fiction hanging there in the amber light, perfectly still, the screw reflecting his own dark pupil while his breathing counted itself.
 
 It fell. His stomach turned over hard enough to make him sit down on the stool, something deeper than food-money gone out of the register again, and his palms were cold and shiny.
 
@@ -234,7 +234,7 @@ Pepper regarded him for a very long time — the third-level regard, where what 
 
 "Those are the wheels this family runs on," she said, and left it at that, and left.
 
-He'd grown an inch and lost half a breath of childhood, and he could feel the trade happening, could feel the particular thrifty Olympian accounting the body kept when it matters most. The Long Clamps took the mk-II the way they'd taken everything. The solar film came off the roll pale as breath over water. The fuel cell was small and honest and nowhere near enough — the company's reactor was a building, not a battery, and buildings don't fly — which was the truth his father had been born not to say and his son had been born to say for a decade of slumber-years' worth of knowing any body he's ever used has a limit.
+He'd grown an inch and lost half a breath of childhood, and he could feel the trade happening, could feel the particular thrifty Olympian accounting the body kept when it matters most. The Long Clamps took the mk-II the way they'd taken everything. The solar film came off the roll pale as breath over water. The fuel cell was small and honest and nowhere near enough — the company's reactor was a building, not a battery, and buildings don't fly. Which was the truth his father had been born not to say and his son had been born to say for a decade of slumber-years' worth of knowing any body he's ever used has a limit.
 
 *power is the weakness,* the notebook said. *accept it. design around it. albatross logic: the weakness is also the promise. light is free. wind is free. she goes far because she carries nothing, not even her own weight if possible.*
 
@@ -264,7 +264,7 @@ The pause finished itself. Yinsen did not look up from the board.
 
 "Yes," Yinsen said, simply. "In Gulmira."
 
-The weeks went on. The suit that was not a Jericho grew on its racks like a secret put together from soup cans and flensing knives — the hands of it first, because a man needs his hands, then the body around the battery's leaner descendant — the new core, the small bright circle Tony forged from missile scrap and palladium and stubbornness, the thing that hummed so beautifully into his wound that Yinsen held up the lamp with both hands and stared.
+The weeks went on. The suit that was not a Jericho grew on its racks like a secret put together from soup cans and flensing knives — the hands of it first, because a man needs his hands. Then the body around the battery's leaner descendant — the new core, the small bright circle Tony forged from missile scrap and palladium and stubbornness, the thing that hummed so beautifully into his wound that Yinsen held up the lamp with both hands and stared.
 
 "This—" Yinsen whispered.
 
@@ -325,7 +325,7 @@ He kept flying the grid.
 
 The convoy site came and went below as the light turned: the scorch tracks thermography-pale, decomposition mapping as honest death, everything the search had already found — nothing the world didn't know, nothing it could not see from its orbit. He reviewed and logged and wrote *no new knowledge* like a man tattooing it on.
 
-Then the rage came, or the sky brought it: a dust storm blown in hard from the northeast at the edge of vision, a boil of brown erasing the horizon's arithmetic, and the Albatross — light, patient, too far from a hangar, too proud to retreat from something she could have ridden out — took a microburst full in the wing film and settled, wounded, into a ridge desert crease, dust-haloed, tilted like a dropped handkerchief. Repair requirements per JARVIS: she gave her own estimate — landed status, mandrel arms deployed, spare film in her spine, two hours of her own slow wilderness surgery before she could lift again. She'd been built to mend herself on a ridge for exactly this, and she was, as always, alone with her own inventory.
+Then the rage came, or the sky brought it: a dust storm blown in hard from the northeast at the edge of vision, a boil of brown erasing the horizon's arithmetic, and the Albatross. Light, patient, too far from a hangar, too proud to retreat from something she could have ridden out — took a microburst full in the wing film and settled, wounded, into a ridge desert crease, dust-haloed, tilted like a dropped handkerchief. Repair requirements per JARVIS: she gave her own estimate — landed status, mandrel arms deployed, spare film in her spine, two hours of her own slow wilderness surgery before she could lift again. She'd been built to mend herself on a ridge for exactly this, and she was, as always, alone with her own inventory.
 
 Mark sat back from the link in the lamp-blue dark, heart hard, hands shaking, sweat cold, body calculating costs it had taught him to speak. Every sheet of solar film on the bench was accounted. Every tool in the shop was leased. Every hour the bird stayed grounded was an hour nobody was looking from her eyes, and the wrongness leaned toward the southeast, and it leaned again, and the wrongness was not a wire, and the wrongness was not a wire, and it was not a wire, and it was —
 
@@ -344,7 +344,7 @@ He did not get the film fully cut before Pepper's voice came breaking through th
 
 Raza learned faster than a shallow man should learn. That was the only thing that rushed them.
 
-The rush snapped down when the progress bar stalled at four-fifths and the pounding came on the door: *open now, off the schedule, this is not the schedule* — and Yinsen did the thing his tattered careful soul had been deciding for weeks: he took up a rifle from the rack of the lesser guard, and he stepped into the doorway, and he bought a genius time with the only currency left in him.
+The rush snapped down when the progress bar stalled at four-fifths and the pounding came on the door: *open now, off the schedule, this is not the schedule*. And Yinsen did the thing his tattered careful soul had been deciding for weeks: he took up a rifle from the rack of the lesser guard, and he stepped into the doorway, and he bought a genius time with the only currency left in him.
 
 "Yinsen—"
 
@@ -366,7 +366,7 @@ Tony saw the board game with the brown and ivory in the back of his mind. Gulmir
 
 The little sun in Tony's chest hummed. The cave rang with men coming. Yinsen closed his eyes.
 
-The rest of the escape went loud, and the story has already been told by fire and myth: the flame out of the turned arms walking the munitions forward like fire rehearsing its own legend, the last door inward blown wide, the flight more long fall with rockets than flight, the first flight of a man who was not supposed to fly — sky screaming, edge and disintegrating canopy, Mark One hard-landing half a ridge away into the dunes with Tony half-buried in a litter his own wings had shredded.
+The rest of the escape went loud, and the story has already been told by fire and myth: the flame out of the turned arms walking the munitions forward like fire rehearsing its own legend. The last door inward blown wide, the flight more long fall with rockets than flight, the first flight of a man who was not supposed to fly. Sky screaming, edge and disintegrating canopy, Mark One hard-landing half a ridge away into the dunes with Tony half-buried in a litter his own wings had shredded.
 
 Tony lay in the sand.
 
@@ -405,7 +405,7 @@ He wasn't going to find Dad.
 
 He hadn't found him.
 
-Someone else had carried his father out of the desert on the side of a chopper in the long third month, while he sat on a ridge crease in his second body with a torn wing like a dropped handkerchief, knowing nothing, donating nothing of what could have been gifted — because the bird was down when the sky burned, and the sky burned while the bird was down, and no ledger of casualties in any war ever cared how hard you tried.
+Someone else had carried his father out of the desert on the side of a chopper in the long third month, while he sat on a ridge crease in his second body with a torn wing like a dropped handkerchief, knowing nothing, donating nothing of what could have been gifted. Because the bird was down when the sky burned, and the sky burned while the bird was down, and no ledger of casualties in any war ever cared how hard you tried.
 
 Mark got up. His bones felt like water and iron. His heart was a hammer that had finally found the nail that belonged to it. He went to the covered bench in the corner — the white shape under the dust sheet, the shape only the house knew — and stood there with his hand on the wing through the cloth, breathing.
 
