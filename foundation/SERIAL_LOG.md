@@ -32,3 +32,6 @@ All five v1 chapters removed from `chapters/` → archived to `_archive/v1_epoch
 
 ## MILESTONE 2026-10-24 · V2 CHAPTER TWO LIVE — "The Week Without Friday" (1304 words)
 Convoy + capture + cave-beginnings staged plain from receipts; Malibu side in behavior only (driveway call, Pepper on the floor, broken-spine geography book, the car that does not slow for the burger turn). One unexplained phenomenon: pencils roll, unnoticed. Friday law pays off by breaking. Gates PASS.
+
+## MILESTONE 2026-10-24 (LATE) · CH2 REBUILT after author ruling "complete failure"
+Fault diagnosed on record: first v2 draft had compressed canon into sketches — violation of CAMERA LAW (canon = spine AND BULK). Rebuilt at 2543 words: full convoy banter+ambush, capture-era, cave in film order (battery/magnet, Yinsen Bern introduction, Jericho demand + refusal + water trough, the door-line over palladium), Pepper-and-the-video panel, school corridor, the broken Friday kept. N-law voice retained; canon restored to bulk.

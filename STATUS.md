@@ -1,6 +1,6 @@
 # STATUS — STARK HEIR map (systematic; regenerated 2026-10-24)
 
-**Live numbers:** 2 live V2 chapters (2,012 / 1304 words, N-law clean) · V1×5 archived · gates PASS · canon receipts: IM1 beats 1–23 on file.
+**Live numbers:** 2 live V2 chapters (2,012 / 2543 words, N-law clean) · V1×5 archived · gates PASS · canon receipts: IM1 beats 1–23 on file.
 
 ## Root docs
 - `README.md` (1,385 B) — front door + status (number-audited)
