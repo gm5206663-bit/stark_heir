@@ -29,3 +29,6 @@ All five v1 chapters removed from `chapters/` → archived to `_archive/v1_epoch
 
 ## MILESTONE 2026-10-24 · V2 CHAPTER ONE LIVE — "Before the News" (rebuilt under N-law)
 2,012 words; six plain panels; 42 dialogue lines; 0 banned craft-words; sentences within cap. Canon staged in film order from receipts: Apogee no-show, Rhodey's stage, casino floor, three-hours-late wheels-up — plural canon panels per CAMERA LAW. Butterflies: zero engineered; Friday-burger law seeded as behavior (Dad promises, JARVIS corrects the count, kid counts anyway); "weird rock" goodbye planted as Mark's last pre-Cave words. Manifest latest=1; next=Ch.2 (Malibu side of the trip going wrong).
+
+## MILESTONE 2026-10-24 · V2 CHAPTER TWO LIVE — "The Week Without Friday" (1304 words)
+Convoy + capture + cave-beginnings staged plain from receipts; Malibu side in behavior only (driveway call, Pepper on the floor, broken-spine geography book, the car that does not slow for the burger turn). One unexplained phenomenon: pencils roll, unnoticed. Friday law pays off by breaking. Gates PASS.

@@ -2,14 +2,14 @@
   "schema_version": "1.0-mark",
   "updated": "2026-10-24",
   "purpose": "Machine-readable current-state manifest for the Mark Stark MCU fic. Powers tools/mcu_verify.py.",
-  "latest_fic_chapter": 1,
-  "latest_fic_title": "Before the News (V2)",
-  "latest_fic_file": "chapters/Chapter_01_Before_the_News.md",
+  "latest_fic_chapter": 2,
+  "latest_fic_title": "The Week Without Friday (V2)",
+  "latest_fic_file": "chapters/Chapter_02_The_Week_Without_Friday.md",
   "canon_consumed_through": {
     "note": "RECORDS: IM1 beats 1-23 receipts/coverage retained (canon trove survives retirement). V1 prose retired by user order 2026-10-24; canonical knowledge persists in canon_coverage/*; v2 must rebuild scenes under N-law + STYLE caps."
   },
-  "next_fic_chapter": 2,
-  "next_beat": "V2 Ch.2: the trip going wrong seen from Malibu side (canon: Cave/convoy era receipts, IM1 beats 4-9 window); Mark household under silence; JARVIS watch; no engineered butterflies.",
+  "next_fic_chapter": 3,
+  "next_beat": "V2 Ch.3: cave work progressing + escape era against Malibu waiting arc; receipts-first.",
   "current_state": {
     "mark": "Twelve. Fridays hold (week three). Naming law public-facing in-story racks. Watched Gulmira coverage by human means only — discipline held under provocation, logged. Obadiah texture-only firewall held. Albatross evenings-check dormant. Entry twenty-five.",
     "tony": "Mark Three flown and blooded (Gulmira). Jets evaded; pilot's chute saved by hand; Rhodey knows (limited) and covers. Board injunction revealed as Obadiah's own filings — Tony chose not to fight in public. Does not yet know about sector sixteen.",
