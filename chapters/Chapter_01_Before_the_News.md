@@ -4,7 +4,7 @@
 ◆ STATUS — Chapter One: LIVE · V2 epoch · written under STYLE GUIDE NATURAL (2026-10-24)
 ◆ CANON SOURCE: Iron Man (2008) film order, opening beats — Apogee no-show / casino / the jet that waits three hours; plural canon panels per CAMERA LAW; receipts on file
 ◆ NEW: pre-Cave baseline of an ordinary boy's life; Friday-burger promise lands as behavior (T-15 seed); "weird rock" goodbye = last words before the trip goes wrong · BUTTERFLIES: none engineered — behavior only · NEXT: the call that stops coming
-◆ FULL CARD: canon_coverage/Chapter_01_canon_coverage.md · law: foundation/STYLE_GUIDE_NATURAL.md
+◆ FULL CARD: canon_coverage/Canon_Coverage_Chapter_01.md · law: foundation/STYLE_GUIDE_NATURAL.md
 ```
 
 ## ONE
@@ -21,7 +21,7 @@ The February sun came through the windshield flat and gold. Happy pulled away fr
 
 "How was the quiz?" Happy said at the light.
 
-"Geography." Mark dug a crushed bag of chips out of the bottom of the backpack, brushed off the worst of the lint, and ate them anyway. "I knew where Afghanistan was before we studied it. Dad talks about it sometimes. Weapons stuff. The desert part."
+"Geography." Mark dug a crushed bag of chips out of the bottom of the backpack, brushed off the worst of the lint, and ate them anyway. "I knew where Afghanistan was before we studied it. Dad leaves papers on the counter sometimes. There was a map. Weapons stuff. The desert part."
 
 "Don't say 'weapons stuff' with your mouth open."
 
@@ -29,7 +29,7 @@ The February sun came through the windshield flat and gold. Happy pulled away fr
 
 "I can hear it."
 
-They stopped at the burger place on the way home, the one with the red stools, because it was Thursday and Thursday had always been fries-early day, even if nobody had made that a rule out loud. Happy ordered like a man who had eaten there four hundred times. Mark ordered like a kid. Somewhere in the middle of it the TV over the counter went to the entertainment desk, and the woman with the bright hair said the name Stark, and Mark looked up with a fry hanging out of his mouth.
+They stopped at the burger place on the way home, the one with the red stools, because it was Thursday and Thursday had always been fries-early day, even if nobody had made that a rule out loud. Happy ordered like a man who had eaten there four hundred times. Mark ordered like a kid. The waitress brought him a pudding nobody had ordered, the way waitresses had since he was small — faces like his got pudding. He said thank you the way you say it when it has always happened. Somewhere in the middle of it the TV over the counter went to the entertainment desk, and the woman with the bright hair said the name Stark, and Mark looked up with a fry hanging out of his mouth.
 
 "—the Apogee Award ceremony tonight in Las Vegas, where Tony Stark is expected to receive—"
 
@@ -57,7 +57,7 @@ The house was the house. Big and glass and cold in the evenings unless someone l
 
 He dropped the backpack by the kitchen counter, which was where it lived, and opened his math homework at the bar stool, which was where it died. The notebook stayed in the bag. The notebook came out later, at night, when the day had finished happening. That was just how notebooks worked.
 
-He worked for eleven minutes. Then the TV.
+He worked for eleven minutes. First, out of a habit older than school, he sat straight on the stool and counted twelve breaths, in and out, the way the nice doctor had shown him when he was very little and the sleeping spells had frightened everybody. Then the TV.
 
 The coverage had started for real now. Cameras on a casino carpet, a podium with flowers, someone in a uniform holding a small polished trophy like it weighed something. Mark ate a bowl of cereal out of the box, standing up, watching Lieutenant Colonel Rhodes stand behind the podium and say careful words about a friend who was not in the building, and the cameras flashed, and the uniform didn't blush but it was close.
 

@@ -1,26 +1,23 @@
-# STYLE LAW NATURAL (N-law) — binding 2026-10-24, learned from the account's own gold standard
-Standard measured against soul-library serials (devouring_dragon sample): **short plain sentences · concrete nouns · actions over abstractions · feeling through physical fact.**
+# STYLE LAW — NATURAL (binding for all V2 chapters)
+*Consolidated 2026-10-24. Supersedes all earlier voice instructions. Standard measured against the account's gold chapters: short plain sentences, concrete nouns, actions over abstractions, feeling shown as physical fact.*
 
-## THE USER'S REPORT (verbatim sense)
-"You don't write naturally… most things are unnatural, specially butterfly effects and how you write Mark… there should everything naturally."
+## HOW THE PROSE SOUNDS
+1. **Plain voice.** Every sentence pins to something a person can see, hear, or do. Max one image per beat. No coined hyphen-compounds.
+2. **Short dialogue.** People interrupt. Small words. One punchline per turn.
+3. **Trust the reader.** Show it — never explain the theme after showing it.
+4. **Rituals rotate.** Lamp / notebook closings only when earned, varied, never templated.
+5. **Butterflies grow; they are not planted.** A ripple must surface as ordinary plot behavior — something said, done, skipped, broken. If it cannot, it stays in the records and OFF the page. No announced, engineered-feeling beats.
 
-## N1 · PLAIN VOICE
-Every sentence must pin to something a person can see, hear, or do. No coined hyphen-compounds. Max one image per beat. Banned craft-vocabulary in prose: braid, ledger, quorum, discipline-note, texture, apparatus, registry, firewall — these belong ONLY in coverage/record files, never on the fiction page.
+## WHO MARK IS (card-1 locks — NEVER NORMAL)
+Natural means plain sentences. The BOY stays impossible:
+- **Beautiful from birth** — strangers warm to him, teachers soften, cameras lean; he treats it as weather. Behavior, never narration.
+- **Talent heir; psychic core present while powers stay CLOSED** — stillness practice since the toddler slumbers is visible as habit (breath counts); under strain the discipline thins and *small physical things slip* (pencils roll, a pen falls) — unexplained, unnoticed by him, never named or analyzed on the page.
+- **Perception gift** — he notices true things adults miss: sweat-lines, folded tissues, where a lie cracks. He SPEAKS like a kid; he SEES like himself.
+- **Brilliant but twelve** — reads above his house, still plays the quiz like a game, corrects adults by accident.
+- **Malibu's open secret** — staff know his patterns; school corridors part around his face.
 
-## N2 · MARK IS TWELVE (core correction)
-Mark behaves like a real twelve-year-old: asks short questions; jokes small; eats like a kid; watches too much TV; guesses wrong sometimes; fears simply. He does NOT analyze his own discipline, write ledger-aphorisms, or narrate his training framework. His notebook = a kid's notebook: short, concrete, a little bold, never philosophical machinery. When he watches people, he notices kid-things: coffee going cold, doors staying shut, a father wearing sleeves inside.
+## BANNED IN PROSE
+braid · ledger · quorum · discipline-note · texture · apparatus · registry · firewall — these live ONLY in records files, never on the fiction page.
 
-## N3 · BUTTERFLIES GROW, THEY ARE NOT PLANTED
-A ripple must surface in plain story behavior — a line someone says, a Friday that happens because both of them are home, a name on a rack the kid notices by accident. Never staged, announced, or engineered-feeling. Rule: if a butterfly cannot show up as ordinary plot behavior, it stays dormant in coverage and OFF the page. Let the reader feel it; never tell them it's a butterfly.
-
-## N4 · DIALOGUE PLAIN AND SHORT
-People interrupt. Small words. One punchline per turn, not cascades. Tony quips like a father, not a symposium.
-
-## N5 · RITUAL ROTATION
-Lamp whispers / notebook entries only when truly earned, and varied. No template closings (max once every other chapter).
-
-## N6 · TRUST THE READER
-Never explain a theme after showing it. No summation aphorisms chasing their own scenes.
-
-## ENFORCEMENT
-New pre-gate scan = grep banned craft-words + compound-hyphen density >2 / paragraph + aphorism-tail check. Applies to MCU successor chapters (Ch.6+) AND is retrofitted where the worst damage sits.
+## HOUSE CAP (unchanged)
+No sentence over sixty words. No digits in prose (digits allowed inside chapter card fences only).

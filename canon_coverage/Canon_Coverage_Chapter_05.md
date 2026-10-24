@@ -1,3 +1,7 @@
+> **V1 RECORDS — RETIRED EPOCH (2026-10-24).** This file documents the retired v1 chapter of the same number. It is kept as the lawful reference record: canon receipts, threads, and prior apparatus. The live V2 chapter supersedes the prose, not the receipts.
+
+---
+
 # CANON COVERAGE — CHAPTER 5 (`Gulmira`)
 
 ## CANON WINDOW (film order, P13)

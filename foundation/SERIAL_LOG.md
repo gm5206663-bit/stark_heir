@@ -1,4 +1,16 @@
-# SERIAL LOG — STARK HEIR (event ledger; rebuild 2026-10-24, readable-first)
+# SERIAL LOG — Stark Heir
+
+## CURRENT STATE (2026-10-24 — authority block, supersedes daily churn)
+
+- **Epoch:** V2. V1's five chapters retired by author order; archived at `_archive/v1_epoch_retired_2026-10-24/`. Their receipts live on as records (see canon_coverage banners).
+- **Live chapters:** Ch.1 "Before the News" + Ch.2 "The Week Without Friday" — written under `foundation/STYLE_GUIDE_NATURAL.md`.
+- **Canon position:** Iron Man (2008), film order — opening through capture/cave-beginnings staged; escape era next.
+- **Author rulings standing:** write naturally (done via style law); Mark is twelve AND never normal (beauty, Talent heir, perception, stillness discipline, unnoticed slips); canon = spine AND bulk in film order from plural panels; butterflies grow as behavior, never engineered; everything checked before delivery.
+- **Next:** V2 Ch.3 — the long cave/waiting arc, receipts-first.
+
+---
+
+## ARCHIVE — full chronological history (preserved)
 Rule: one line per milestone. Detail lives in canon_coverage/ and audits/. Recent turns: full text below the line.
 
 ## MILESTONES (chronological)
