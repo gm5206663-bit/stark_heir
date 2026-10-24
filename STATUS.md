@@ -23,7 +23,10 @@
 - `foundation/SERIAL_LOG.md` — 8K — log — current-state block + verbatim archive
 - `foundation/STATUS_PANEL.md` — 9K — latest factual state + history
 - `foundation/STYLE_GUIDE_NATURAL.md` — 2K — CURRENT voice law (V2)
-- `foundation/TIMELINE_MARK.md` — 1K — Mark-era dates
+- `foundation/TIMELINE_MARK.md` — 1K — timeline Mark-era dates
+- `foundation/RELATIONSHIPS.md` — 2K — cast web with states + evidence
+- `foundation/CHARACTERS.md` — 1K — character sheets
+- `foundation/OPEN_QUESTIONS.md` — 1K — author-ruling queue — 1K — Mark-era dates
 
 ## canon_coverage/
 - `canon_coverage/Canon_Coverage_Chapter_01.md` — 5K — V1 records: receipts + retired card apparatus (banner-marked)

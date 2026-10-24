@@ -152,3 +152,5 @@ Stage 3+ (natural) · TK ladder climb · telepathy scope-gated opening · new co
 
 
 </details>
+
+- 2026-10-24: file-type completion — RELATIONSHIPS.md, CHARACTERS.md, chapters/INDEX.md, OPEN_QUESTIONS.md created; mapped.
