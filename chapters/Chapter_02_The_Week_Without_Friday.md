@@ -45,7 +45,7 @@ He would keep that photograph a long time.
 
 The sound came from everywhere at once, like the mountains had been holding their breath and were done with it.
 
-The first truck stopped being a truck. The gap of air between the trucks became the whole world. Drivers did what drivers are trained to do, and it was not enough, and doors opened that were made to open, and the ones whose job it was to fight got out and fought — the young one with the photograph first into the dust, which was the whole terrible mercy of it: there was a fight, and they were in it.
+The first truck stopped being a truck. The gap of air between the trucks became the whole world. Drivers did what drivers are trained to do. It was not enough, and doors opened that were made to open, and the ones whose job it was to fight got out and fought — the young one with the photograph first into the dust, which was the whole terrible mercy of it: there was a fight, and they were in it.
 
 Tony Stark got out into brown air that did not care about his name and found the dirt with his cheek and stayed there, the way humble is made. Something landed in the road an arm's length from his face, spinning, settling.
 
