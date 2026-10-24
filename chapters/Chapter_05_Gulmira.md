@@ -1,14 +1,7 @@
 # Chapter Five: Gulmira
 
 ```
-◆ STATUS — Chapter Five: AUTUMN 2008 · Gulmira and the jets · Malibu / Kunar / Bagram braid
-CANON SOURCE: Iron Man (2008) — beats 16–19 (Gulmira sortie, village handover, tank walk-away · jet intercept, parachute catch, Rhodey cover · Raza camp, Mark One salvage, sector sixteen · Malibu injunction reveal)
-POV: Mark (twelve) + PERSPECTIVE PANELS (canon-side): sortie · jets and Rhodey · Ten Rings camp · Malibu
-CAST: Tony, JARVIS, Pepper, Mark, Rhodey [canon], Coulson [canon], Obadiah [canon], Raza [canon], villagers and pilots [canon]
-NEW (ladder-logged): no new function (constructed/interface: none · ladder: none · natural: discipline note only — human-means constraint HELD under provocation, no stat change)
-BUTTERFLY (outcome-none): F-015 Tuesday texture deferred · Friday law holds week three · racks' naming law now public-facing (Mark Three named the same — after the boy)
-CANON BEATS STAGED FULL (all [reported], Jets-and-Malibu dialogue [fuzzy]-paraphrase): post-gala red-gold fabrication → sortie drop, village handover · flak truck, micro-missiles, tank behind him, walk-away · world newscast reach · jet intercept, canopy graze, parachute-failure rescue, "it's me in here" (reworded), Rhodey covers · Raza camp sonic paralysis, Mark One crated, Raza left, sector sixteen seeded · Malibu injunction reveal, mini-arc glow glimpsed · causes INTACT
-SEED: media epithet still unborn ("metal man" only) · F-012 airborne-closed at character layer · Albatross weather-log evenings · entry twenty-five + lamp close · NEXT: Pepper's hack / sector sixteen video / arc theft (film order, chapter six)
+◆ STATUS — Chapter Five: AUTUMN 2008 · Gulmira
 ```
 
 ---

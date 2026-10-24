@@ -1,14 +1,7 @@
 # Chapter Three: The Return
 
 ```
-◆ STATUS — Chapter Three: SUMMER 2008 · the return · runway / SI / Malibu braid
-CANON SOURCE: Iron Man (2008) — beats 10–12 (runway reunion · car + cheeseburger · press conference: floor-sit, shutdown, Obadiah cover · night chest-swap + plaque origin)
-POV: Mark (12) + PERSPECTIVE PANELS (canon-side): runway · car · press conference · workshop-chest
-CAST: Tony, Pepper, Happy, Obadiah, Mark, JARVIS, press pool, Christine Everhart [canon]
-CANON BEATS STAGED FULL (all [reported]): runway reunion · car + cheeseburger · floor-sit speech + shutdown + Obadiah cover · PALEO-core chest swap (Pepper, closed-to-Mark) — causes INTACT
-NEW: none (no ladder step) · POWER: layered readback (natural, displayed) · zero certificates (P3)
-BUTTERFLY (outcome-none): T-9 "my kid—" runway ask · T-10 fatherhood cadence in speech · T-11 pool notes heir absent · T-12 shared flinch sighting
-SEED: rock → memory (F-001 transformed, stands) · bench unlifted (F-009 holds) · ribs-flag F-012 · NEXT: board storm / workshop weeks
+◆ STATUS — Chapter Three: AUTUMN 2008 · The Return
 ```
 
 ---

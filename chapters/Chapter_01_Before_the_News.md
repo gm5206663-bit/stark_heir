@@ -1,13 +1,7 @@
 # Chapter One: Before the News
 
 ```
-◆ STATUS — Chapter One: BEFORE THE NEWS · SPRING 2008 · Malibu / Vegas / Kunar braid
-CANON SOURCE: Iron Man (2008) — beats 1–4 (Apogee ceremony + casino · flight · airfield + Jericho demo · convoy ambush)
-POV: Mark (12) + canon braid (Tony-side cinematic) · CAST: Mark, Tony, Pepper, Happy, Obadiah, JARVIS, Rhodey, Jimmy + convoy soldiers [canon]
-CANON BEATS STAGED (all [reported]): Apogee ceremony + casino · flight · airfield + Jericho demo · convoy ambush — causes INTACT
-NEW: none (no ladder step) · POWER: shapeless distant dread (uncertified) / TK misfire (seed, hidden, costly) / attention-withdraw (Obie)
-BUTTERFLY (outcome-none): T-1 podium satellite call · T-2 fatherhood riffs in canon mouths · T-3 son's photo in Fun-vee · T-4 Mark's call mid-craps · T-5 flight-deck call home (records/textures)
-SEED: F-001 rock · F-002 misfire+welts · F-003 Obie · F-006 no-certificate grief · F-007 notes · F-008 call/photo records · NEXT: the three months
+◆ STATUS — Chapter One: SPRING 2008 · Before the News
 ```
 
 ---
