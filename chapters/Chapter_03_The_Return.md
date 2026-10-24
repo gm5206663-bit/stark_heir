@@ -2,6 +2,7 @@
 
 ```
 ◆ STATUS — Chapter Three: SUMMER 2008 · the return · runway / SI / Malibu braid
+CANON SOURCE: Iron Man (2008) — beats 10–12 (runway reunion · car + cheeseburger · press conference: floor-sit, shutdown, Obadiah cover · night chest-swap + plaque origin)
 POV: Mark (12) + PERSPECTIVE PANELS (canon-side): runway · car · press conference · workshop-chest
 CAST: Tony, Pepper, Happy, Obadiah, Mark, JARVIS, press pool, Christine Everhart [canon]
 CANON BEATS STAGED FULL (all [reported]): runway reunion · car + cheeseburger · floor-sit speech + shutdown + Obadiah cover · PALEO-core chest swap (Pepper, closed-to-Mark) — causes INTACT

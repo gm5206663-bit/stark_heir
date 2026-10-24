@@ -2,6 +2,7 @@
 
 ```
 ◆ STATUS — Chapter Four: AUTUMN 2008 · the workshop rebirth · Malibu / coast / gala braid
+CANON SOURCE: Iron Man (2008) — beats 13–15 (build bench, Dum-E, flight log one · first flight + skywrite · altitude/icing, roof-and-piano · hot-rod red over the Gulmira broadcast · gala: name-gag, dress, dance, balcony, Everhart photos, exit)
 POV: Mark (twelve) + PERSPECTIVE PANELS (canon-side): workshop bench · first flight · altitude and icing · paint and broadcast · gala (Coulson, dress, dance, balcony, ambush)
 CAST: Tony, Mark, JARVIS, Pepper, Happy, Coulson [canon], Christine Everhart [canon], Dum-E [canon], donors [canon]
 NEW (ladder-logged): no new function this chapter (constructed/interface: none · ladder functions: none · natural growth: core endurance evenings, small) · TK boundary held

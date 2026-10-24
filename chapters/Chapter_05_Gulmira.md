@@ -2,6 +2,7 @@
 
 ```
 ◆ STATUS — Chapter Five: AUTUMN 2008 · Gulmira and the jets · Malibu / Kunar / Bagram braid
+CANON SOURCE: Iron Man (2008) — beats 16–19 (Gulmira sortie, village handover, tank walk-away · jet intercept, parachute catch, Rhodey cover · Raza camp, Mark One salvage, sector sixteen · Malibu injunction reveal)
 POV: Mark (twelve) + PERSPECTIVE PANELS (canon-side): sortie · jets and Rhodey · Ten Rings camp · Malibu
 CAST: Tony, JARVIS, Pepper, Mark, Rhodey [canon], Coulson [canon], Obadiah [canon], Raza [canon], villagers and pilots [canon]
 NEW (ladder-logged): no new function (constructed/interface: none · ladder: none · natural: discipline note only — human-means constraint HELD under provocation, no stat change)

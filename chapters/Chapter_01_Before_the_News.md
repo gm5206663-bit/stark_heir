@@ -2,6 +2,7 @@
 
 ```
 ◆ STATUS — Chapter One: BEFORE THE NEWS · SPRING 2008 · Malibu / Vegas / Kunar braid
+CANON SOURCE: Iron Man (2008) — beats 1–4 (Apogee ceremony + casino · flight · airfield + Jericho demo · convoy ambush)
 POV: Mark (12) + canon braid (Tony-side cinematic) · CAST: Mark, Tony, Pepper, Happy, Obadiah, JARVIS, Rhodey, Jimmy + convoy soldiers [canon]
 CANON BEATS STAGED (all [reported]): Apogee ceremony + casino · flight · airfield + Jericho demo · convoy ambush — causes INTACT
 NEW: none (no ladder step) · POWER: shapeless distant dread (uncertified) / TK misfire (seed, hidden, costly) / attention-withdraw (Obie)

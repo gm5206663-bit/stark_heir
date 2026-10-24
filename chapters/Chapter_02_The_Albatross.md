@@ -2,6 +2,7 @@
 
 ```
 ◆ STATUS — Chapter Two: SPRING–SUMMER 2008 · the three months · Malibu / Kunar grid braid
+CANON SOURCE: Iron Man (2008) — beats 5–9 (awakening, electromagnet + battery, Yinsen · the demand, refusal, coercion · the shared-build weeks · escape, Yinsen's death, Mark One flight/crash · desert find, Rhodey)
 POV: Mark (12) · CAST: Mark, JARVIS, Pepper, Happy, Obadiah, Rhodey (voice) · CANON BEATS STAGED FULL (all [reported]): SI statement · Rhodey overflight · CAVE ARC (awakening, demand, weeks, escape) · desert find — causes INTACT
 NEW (ladder-logged): THE EXTENSION — constructed interface, core × neuro-link (Seed → unstable function → controlled loiter) · TK deliberate-seed (State 2 boundary, inches only) · dimmer controlled · empathy bandwidth+layers (natural) · near-sphere discrimination (natural) · core endurance growth (natural)
 POWER: zero certificates (P3) · desert lean = phenomenon, never evidence · telepathy / shields / Stage-3 CLOSED · no arc tech
