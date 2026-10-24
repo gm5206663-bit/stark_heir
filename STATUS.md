@@ -1,6 +1,6 @@
 # STATUS — STARK HEIR map (systematic; regenerated 2026-10-24)
 
-**Live numbers:** 5 chapters · bodies 5,903/6,391/5,055/5,531/4,794 · gates PASS · canon: IM1 beats 1–19.
+**Live numbers:** 0 live chapters (V1 epoch retired 2026-10-24 by user order; 5 archived) · gates PASS · canon receipts: IM1 beats 1–23 on file · V2 pending.
 
 ## Root docs
 - `README.md` (1,385 B) — front door + status (number-audited)
@@ -12,11 +12,7 @@
 - `MASTER_PROJECT_BIBLE.md` (11,786 B) — bible: cast, voice, §2 canon words, locks, §16 map authority
 
 ## chapters/
-- `chapters/Chapter_01_Before_the_News.md` (33,288 B) — chapter (head-card: compact, CANON SOURCE named)
-- `chapters/Chapter_02_The_Albatross.md` (35,137 B) — chapter (head-card: compact, CANON SOURCE named)
-- `chapters/Chapter_03_The_Return.md` (28,282 B) — chapter (head-card: compact, CANON SOURCE named)
-- `chapters/Chapter_04_The_Workshop_Rebirth.md` (31,114 B) — chapter (head-card: compact, CANON SOURCE named)
-- `chapters/Chapter_05_Gulmira.md` (28,768 B) — chapter (head-card: compact, CANON SOURCE named)
+*(empty — 2026-10-24; retirement archive below)*
 
 ## foundation/
 - `foundation/ADAPTATION_TALENT_STUDY.md` (7,996 B) — Talent doctrine study
@@ -35,6 +31,13 @@
 - `canon_coverage/Canon_Coverage_Chapter_04.md` (3,324 B) — chapter receipts + coverage + retired card archive
 - `canon_coverage/Canon_Coverage_Chapter_05.md` (3,292 B) — chapter receipts + coverage + retired card archive
 - `canon_coverage/Cards_Archive.md` (6,986 B) — chapter receipts + coverage + retired card archive
+
+## _archive/v1_epoch_retired_2026-10-24/
+- `_archive/v1_epoch_retired_2026-10-24/Chapter_01_Before_the_News.md` — retired v1 chapter (records only)
+- `_archive/v1_epoch_retired_2026-10-24/Chapter_02_The_Albatross.md` — retired v1 chapter (records only)
+- `_archive/v1_epoch_retired_2026-10-24/Chapter_03_The_Return.md` — retired v1 chapter (records only)
+- `_archive/v1_epoch_retired_2026-10-24/Chapter_04_The_Workshop_Rebirth.md` — retired v1 chapter (records only)
+- `_archive/v1_epoch_retired_2026-10-24/Chapter_05_Gulmira.md` — retired v1 chapter (records only)
 
 ## audits/ + reference/ + tools/ + .github/
 - `audits/CHAPTER_01_PREDRAFT_2026-09-21.md` (5,039 B) — predraft audit

@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0-mark",
-  "updated": "2026-09-26",
+  "updated": "2026-10-24",
   "purpose": "Machine-readable current-state manifest for the Mark Stark MCU fic. Powers tools/mcu_verify.py.",
-  "latest_fic_chapter": 5,
-  "latest_fic_title": "Gulmira",
-  "latest_fic_file": "chapters/Chapter_05_Gulmira.md",
+  "latest_fic_chapter": 0,
+  "latest_fic_title": "— (V1 epoch retired)",
+  "latest_fic_file": "_archive/v1_epoch_retired_2026-10-24/",
   "canon_consumed_through": {
-    "note": "IM1 FULL through beat 19: opening, captivity, return, workshop rebirth, Gulmira sortie (village saved, leader handed to villagers, tank walk-away), jet intercept (canopy graze, failing parachute caught — no-harm-to-servicemen rule set), Rhodey cover begun, Raza camp sonic paralysis + Mark One salvage + sector sixteen seeded, Malibu injunction reveal + mini-arc glimpse. DECLARED omissions: military hospital only. F-012 intact (Mark: suits only, never arc; ribs-flag discipline). Epithet 'Iron Man' not yet uttered (metal-man seeding only; finale chapter crystallizes)."
+    "note": "RECORDS: IM1 beats 1-23 receipts/coverage retained (canon trove survives retirement). V1 prose retired by user order 2026-10-24; canonical knowledge persists in canon_coverage/*; v2 must rebuild scenes under N-law + STYLE caps."
   },
-  "next_fic_chapter": 6,
-  "next_beat": "Pepper's SI hack → sector sixteen visuals + Obadiah's deal documented (canon) → chest-arc theft paralytic night (Pepper's gift saves him) → Coulson loop tightened → Iron Monger build-under shadow → Chapter six stages theft; Chapter seven Iron Monger battle + 'I am Iron Man' + Fury tag.",
+  "next_fic_chapter": 1,
+  "next_beat": "V2 EPOCH REBUILD pending user word: Chapter One under N-law (natural, kid-plain); IM1 reopening span; continuity threads and canon receipts preserved in records; duplicates none.",
   "current_state": {
     "mark": "Twelve. Fridays hold (week three). Naming law public-facing in-story racks. Watched Gulmira coverage by human means only — discipline held under provocation, logged. Obadiah texture-only firewall held. Albatross evenings-check dormant. Entry twenty-five.",
     "tony": "Mark Three flown and blooded (Gulmira). Jets evaded; pilot's chute saved by hand; Rhodey knows (limited) and covers. Board injunction revealed as Obadiah's own filings — Tony chose not to fight in public. Does not yet know about sector sixteen.",

@@ -4,7 +4,7 @@
 Chronological MCU fanfiction. Mark Howard Stark — Tony's public son, hidden Adaptation-Talent holder with a stabilized X-gene and a growing psychic core. Canon is the spine; the OC braids around it with absolute canon ownership.
 
 ## 2. THE LIVE EDGE
-**After Chapter Five (`Gulmira`, 2026-09-26).** IM1 beats 1–19 consumed. Next: **Chapter Six** — Pepper's hack → the sector-sixteen video → the arc theft (IM1 beats 20+; then the Iron Monger battle and the podium line).
+**V1 epoch retired by user order (2026-10-24). Zero live chapters in `chapters/`.** V2 rebuild pending: Chapter One under N-law. The canon trove (receipts/coverage for IM1 beats 1–23), continuity ledger, and style autopsy are preserved in records — build from those, never from archived prose.
 
 ## 3. STATE OWNERS (single sources, never duplicate)
 - Live state: `foundation/STATUS_PANEL.md` (§0 LIVE)
