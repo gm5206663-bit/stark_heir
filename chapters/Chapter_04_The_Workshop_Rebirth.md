@@ -35,7 +35,7 @@ It arrived at seven exactly in two grease-slick paper bags, onto the island coun
 
 "Second," Mark said, raising his. The quorum was two and the motion carried, the way every motion that mattered in this house carried — under grease, under laughter, under all the filed-down things neither of them would ever file.
 
-Later, in his room, with Happy downstairs explaining overtime to an empty kitchen, the notebook took one more line in small disciplined hand: *Fridays stand. No rule is too small to rate a two-chair quorum. Tradition counts as armor.*
+Later, in his room, with Happy downstairs explaining overtime to an empty kitchen, the notebook took one more line: *Friday burgers with Dad are now officially a law. I count it.*
 
 ---
 
@@ -327,10 +327,10 @@ Midnight wore itself thin over the water. Mark had been told to bed, and gone, a
 
 *I will not go looking with anything beyond human means tonight. The balance of power in his chest is mine to leave unopened.*
 
-He set the pencil down. Put the notebook away. Then, because this was the room's ritual now, in this house, since the tritium lamp's small-and-faithful watch had taken up its shelf above the desk since what felt like forever, he whispered under the covers like a boy whose father had promised sandwich lunches all over this earth:
+He put the pencil beside the book. The small lamp on his shelf — the one Dad had put there years back, so the room would never go dark on him — he kept his face turned to it, and whispered:
 
 "Good night, Dad."
 
 The lamp watched with its small cold steadiness. JARVIS, in the walls, kept the porter's night-shift over all of their secrets — the suit's red registration headed south over the ocean, the boy's entry sealed in a notebook, the plaque on the bench. *Proof that Tony Stark has a heart* — its three words unmoving through the dark of the room where both halves of that dawning life — father in the sky, son in the notebook — were working at being alive.
 
-"Remember sandwiches," Mark finished, and slept.
+"Tell Dad I saved him half the burger," Mark added, to the quiet room, and slept.

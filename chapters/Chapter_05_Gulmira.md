@@ -259,26 +259,24 @@ That night — after pizza had rolled up the hill and the injunction-worry lay o
 
 The lamp — the tritium-born thing commissioned in the harder years, cold and forever and impossible to blow out, that was the point — kept its post as it always had, a fixture of the boyhood chapel. Under it, the notebook spread flat like a laundry receipt — *entry twenty-five* — and the pages had grown their confidence around one ordinary Sunday truth set after the other:
 
-— *The armor of a good time got my name. Mark One, Mark Two, Mark Three — name after name family-ranked under the lantern whereas no armor ever outranks its name.*
+— *The suits get my name. Mark One, Mark Two, Mark Three. Dad doesn't explain. He doesn't have to.*
 
-— *Stars are armor too. He was at Afghanistan tonight, and California tonight; the news hasn't had time to begin saying the right word for him yet.*
+— *He was at Afghanistan tonight, and the news is calling him a flying robot. They don't have his name right yet.*
 
-— *Parachutes fail. He catches them. It's going to be needed, someday, that habit.*
+— *A pilot's parachute didn't work tonight. He went down and fixed it with his hands. That's the part I keep replaying.*
 
-— *Mr. Stane came again. Warmth is what arrives when a ledger wants to be loved. I note only shape, never purpose. Note only what the glass shows.*
+— *Mr. Stane came again. He stayed late and kept smiling. I don't know what was wrong. Probably something. I'm twelve and watching, not a detective.*
 
-— *The chest-light still scares me. Not the light itself — the way Dad keeps his shirt buttoned in doorways, every single day, in a climate that never argues. I stay out of that space. The ribs-flag teaches it: the boundary-line of love is a line you do not cross.*
+— *Dad keeps his shirt buttoned all the way now, even around me. I don't ask. You don't pull on what someone keeps covered. That's just the rule here.*
 
-He looked at the lamp. Looked down the long corridor toward the sealed workshop where JARVIS kept the house's whole sky of captions behind the quiet; the night bloomed warm with the surf's patience, residual cocoa, and the passenger under construction below:
+He looked at the lamp, then down the long corridor toward the closed workshop. Down there, the suit sat on its rack in the dark and did not need to sleep.
 
-entry twenty-five closed with one more accurate, profession-narrow sentence:
+The entry's last line, in pencil, in a kid's hand:
 
-*Protect, Dad. We'll all catch up.*
+*Look after Dad too. He forgets.*
 
-Then the lamp whisper, old as his habit of presences and as beloved as the night could afford:
+Then he reached for the lamp and stopped there — not out of fear of the dark, but because tonight, of all nights, he wanted to keep the small light on for a few more minutes while the night in Kunar and the night in Malibu finished becoming the same long room in his head.
 
-"Good night."
+"Good night, Dad," he said.
 
-And said one echo further than usual, because a word could fight metal somewhere over a city where children were finally-sleeping safe:
-
-"Armor suits you."
+"The armor looks good on you."

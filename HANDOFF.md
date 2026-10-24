@@ -14,7 +14,7 @@ Chronological MCU fanfiction. Mark Howard Stark — Tony's public son, hidden Ad
 - Event ledger: `foundation/SERIAL_LOG.md`
 
 ## 4. THE LAWS
-`foundation/CROSS_PROJECT_LAW.md` — P1–P15 + P12-AMENDMENT. Bible §2 canon words; §16 map authority. Desk protocol (AGENTS.md → the-authors-desk): base revision + baseline gate before edits; small authorized changes; push without force.
+`foundation/CROSS_PROJECT_LAW.md` — P1–P15 + P12-AMENDMENT. `foundation/STYLE_GUIDE_NATURAL.md` — N-law (binding 2026-10-24): plain short sentences; Mark writes like a real twelve-year-old; butterflies grow as plot behavior, never announced; banned craft-words in prose. Bible §2 canon words; §16 map authority. Desk protocol (AGENTS.md → the-authors-desk): base revision + baseline gate before edits; small authorized changes; push without force.
 
 ## 5. THE GATES
 `python3 tools/mcu_verify.py` — must exit PASS. Hard style law effective 2026-10-12: sentences ≤60 words; zero digits in prose (card content inside the status fence is exempt); zero CJK; each chapter opens with a COMPACT 4-line ◆ STATUS card (status / CANON SOURCE / NEW+butterflies+NEXT / FULL CARD pointer). CI runs the same verifier on every push (`.github/workflows/style-gate.yml`).
