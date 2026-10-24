@@ -2,6 +2,9 @@
 
 ```
 ◆ STATUS — Chapter One: SPRING 2008 · Before the News
+SOURCE: Iron Man (2008) beats 1–4 (Apogee → ambush) · staged full · causes INTACT
+NEW: none · butterflies: T-1..T-5 textures only · NEXT: the three months
+FULL CARD: canon_coverage/Canon_Coverage_Chapter_01.md
 ```
 
 ---

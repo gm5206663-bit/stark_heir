@@ -2,6 +2,9 @@
 
 ```
 ◆ STATUS — Chapter Two: SUMMER 2008 · The Albatross
+SOURCE: Iron Man (2008) beats 5–9 (awakening → desert find; five cave panels) · staged full · causes INTACT
+NEW: Extension / TK-seed / dimmer (ledger in coverage) · butterflies: T-13 name said in cave · NEXT: the return
+FULL CARD: canon_coverage/Canon_Coverage_Chapter_02.md
 ```
 
 ---

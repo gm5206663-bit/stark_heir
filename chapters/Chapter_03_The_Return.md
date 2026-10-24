@@ -2,6 +2,9 @@
 
 ```
 ◆ STATUS — Chapter Three: AUTUMN 2008 · The Return
+SOURCE: Iron Man (2008) beats 10–12 (runway → conference → chest-swap) · staged full · causes INTACT
+NEW: none · butterflies: T-9..T-12 textures · NEXT: workshop rebirth
+FULL CARD: canon_coverage/Canon_Coverage_Chapter_03.md
 ```
 
 ---

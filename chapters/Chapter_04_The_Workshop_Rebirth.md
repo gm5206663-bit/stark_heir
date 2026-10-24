@@ -2,6 +2,9 @@
 
 ```
 ◆ STATUS — Chapter Four: AUTUMN 2008 · The Workshop Rebirth
+SOURCE: Iron Man (2008) beats 13–15 (bench → flight → icing → paint → gala) · staged full · causes INTACT
+NEW: none · butterflies: T-14 naming DELIVERED, T-15 Fridays OPENED · NEXT: Gulmira
+FULL CARD: canon_coverage/Canon_Coverage_Chapter_04.md
 ```
 
 ---

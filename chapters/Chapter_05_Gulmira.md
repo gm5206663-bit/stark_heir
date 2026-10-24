@@ -2,6 +2,9 @@
 
 ```
 ◆ STATUS — Chapter Five: AUTUMN 2008 · Gulmira
+SOURCE: Iron Man (2008) beats 16–19 (sortie → jets → camp → injunction) · staged full · causes INTACT
+NEW: none · butterflies: F-015 texture only · NEXT: Pepper's hack / the video / the theft
+FULL CARD: canon_coverage/Canon_Coverage_Chapter_05.md
 ```
 
 ---
