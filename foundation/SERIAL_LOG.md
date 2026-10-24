@@ -47,3 +47,5 @@ Convoy + capture + cave-beginnings staged plain from receipts; Malibu side in be
 
 ## MILESTONE 2026-10-24 (LATE) · CH2 REBUILT after author ruling "complete failure"
 Fault diagnosed on record: first v2 draft had compressed canon into sketches — violation of CAMERA LAW (canon = spine AND BULK). Rebuilt at 2543 words: full convoy banter+ambush, capture-era, cave in film order (battery/magnet, Yinsen Bern introduction, Jericho demand + refusal + water trough, the door-line over palladium), Pepper-and-the-video panel, school corridor, the broken Friday kept. N-law voice retained; canon restored to bulk.
+
+- 2026-10-24 (serious-work pass): V2 Ch.1 and Ch.2 rebuilt to SERIAL LENGTH (Ch.1 4,185w · Ch.2 4465w). Canon staged complete per CAMERA LAW (gala stage→casino floor; convoy banter→ambush→capture→cave full arc to work-beginning). Mark per locked attributes as behavior. STYLE LAW voice. Gates PASS.

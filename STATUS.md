@@ -1,6 +1,6 @@
 # STATUS — Stark Heir (generated map, 2026-10-24 cleanup)
 
-**Live:** 2 V2 chapters — Ch.1 *Before the News* (2,085 words) · Ch.2 *The Week Without Friday* (3,068 words) · gates PASS, 0 failures · canon on film order: Iron Man opening → cave-beginnings · V1×5 chapters archived with receipts intact.
+**Live:** 2 V2 chapters — Ch.1 *Before the News* (2,085 words) · Ch.2 *The Week Without Friday* (4465 words) · gates PASS, 0 failures · canon on film order: Iron Man opening → cave-beginnings · V1×5 chapters archived with receipts intact.
 
 ## root
 - `AGENTS.md` — 1K — agent boundaries + Desk protocol pointer
