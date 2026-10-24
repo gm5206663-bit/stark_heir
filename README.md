@@ -1,20 +1,11 @@
 # STARK HEIR — MCU Fanfiction Serial
 
-Public heir. Hidden mutation. A Talent older than his first breath.
+Public heir. Hidden mutation. A Talent older than his first breath. Mark Howard Stark (born Nov 1996), Tony Stark's son, opens at Iron Man 1 (spring 2008), age twelve.
 
-**Premise:** Mark Howard Stark, born 1996 — Tony Stark's son by a brief night with an actress, bought home for money and raised in the open as the Stark heir. Genius by blood. Supernaturally beautiful since birth. Underneath: the Adaptation Talent, a stabilized X-gene, and a psychic core that grows through breakthrough slumbers the world calls a disease.
+**Status (2026-10-24; numbers audited from files): V1 EPOCH — 5 chapters shipped and gated.** Bodies: 5,903 / 6,391 / 5,055 / 5,531 / 4,794 words. `python3 tools/mcu_verify.py` PASS · zero-digit prose · zero-CJK. Canon consumed: **Iron Man (2008) beats 1–19**, staged scene-by-scene in film order (ambush → captivity → return → chest-swap → workshop rebirth → gala → Gulmira sortie → jets → Raza camp → Malibu injunction). Next: **Chapter Six — Pepper's hack / the video / the theft of the heart** (IM1 beats 20+).
 
-**Start:** Chapter One opens at Iron Man 1 (2008). He is twelve.
+**Doctrine:** canon on-page, complete, in film order, from plural canon-side panels (P12 camera law + P12-AMENDMENT · P13 · P14 · P15; folded into the account law book v2.5). Every chapter's head-card names its CANON SOURCE. Sibling: `mcu_eternal_fanfic` (Varun, PAUSED). Sibling lane separation is absolute.
 
-**Status (2026-10-07, numbers re-measured from the files):** V1 EPOCH — **5 chapters shipped and gated** (v1-epoch labels: Ch.1 v5 · Ch.2 v2 · Ch.3 v3; bodies 5,903 / 6,391 / 5,055 / 5,531 / 4,794 words · `tools/mcu_verify.py` PASS, zero-digit, zero-CJK). Canon consumed: **Iron Man 1 beats 1–19**, staged scene-by-scene in film order (ambush → cave → return → workshop rebirth → gala → **Gulmira sortie** → jet intercept and the caught parachute → Raza camp + Mark One salvage → the Malibu injunction). Next: **Chapter Six** — Pepper's hack, the theft of the heart, the count toward Iron Monger.
+**Read order:** HANDOFF.md → MASTER_PROJECT_BIBLE.md → foundation/MCU_TIMELINE.md → foundation/CROSS_PROJECT_LAW.md → foundation/STATUS_PANEL.md → chapters/. Quick map of every file: **STATUS.md**.
 
-**The doctrine:** canon runs *on the page*, complete and unskipped, in film order, from plural canon-side panels (P12 + P12-AMENDMENT camera law, P13, P14). The OC lives braided around it with absolute canon ownership. A butterfly is only logged when the two tracks touch on the page (T-registry in `foundation/MCU_TIMELINE.md`, incl. T-14: the armor family is canon-designated *Mark* because that is his name — origin-stage queued for Ch.4).
-
-**Map:** [STATUS.md](STATUS.md) — every file, its role, and the live numbers.
-**Cold start:** [HANDOFF.md](HANDOFF.md) — read order, the laws, the gates, the next move.
-
-**Read order:** README → HANDOFF.md → MASTER_PROJECT_BIBLE.md → foundation/MCU_TIMELINE.md (complete MCU chronology + butterfly registry) → foundation/CROSS_PROJECT_LAW.md → foundation/STATUS_PANEL.md → foundation/TIMELINE_MARK.md → chapters/.
-
-**Sibling project:** `mcu_eternal_fanfic` (VARUN, Eternals) — PAUSED at Chapter 3 by user order, files intact.
-
-Fan work. Non-commercial (see NOTICE.md). License: MIT (see LICENSE).
+Fan work. Non-commercial — NOTICE.md. License: MIT — LICENSE. Agent entry point: AGENTS.md (Desk protocol).

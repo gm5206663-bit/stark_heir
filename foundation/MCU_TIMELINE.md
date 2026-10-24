@@ -1,4 +1,5 @@
-# MCU TIMELINE — complete canon map (v3, 2026-09-22)
+# MCU TIMELINE — complete canon map (current, 2026-10-24)
+> Sections: structural ruling → deep past → eras → appendices A (regions) + B (butterflies).
 
 **Tags (P15): [canon]** film-textual · **[wiki-date]** official MCU chronology · **[convention]** film-title arithmetic · **[fuzzy]** ambiguous · **[journal]** retcon hazard.
 
@@ -145,3 +146,14 @@ Chapters stand under **A** until ruled.
 The Consultant (2011) · A Funny Thing… Thor's Hammer (2011) · Item 47 (2012) · Agent Carter one-shot (1946-set/2013-disc-era) · All Hail the King (2014; Trevor; the Ten Rings' true mantle — ties Shang-Chi).
 **Tesseract custody:** Asgard→Norway(965 AD)→Schmidt(1942)→the Atlantic ice (recovered 1945)→Howard(1945)→Project Pegasus→**Carol/Goose (1995)**→SHIELD→Avengers tower heist-era (2012)→Asgard vault→Loki's pocket (2017)→Thanos (2018).
 **Stones (one line):** Space above · Reality: Collector(2013)→Thanos · Power: Xandar vault(2014)→Thanos · Time: Ancient One→Strange→Thanos · Mind: scepter→Vision(2015)→Thanos · Soul: Vormir(2018). Blip-return/return-to-Vormir beats = Endgame.
+
+---
+
+## APPENDIX A — REGIONS (condensed)
+**Films, complete:** CATFA(1943-45) · Captain Marvel(1995) · IM1(2008) · Hulk+IM2+Thor BIG WEEK(2011) · Avengers(2012) · IM3(Dec 2012) · TDW(2013) · CATWS(2014) · GotG(2014)+Vol2(late 2014) · AoU(2015) · Ant-Man(2015) · Civil War(2016) · Black Widow+Black Panther(2016) · Doctor Strange(2016-17) · Homecoming(2016) · Ragnarok(2017) · AM&W+IW Snap(2018) · ENDGAME+WandaVision+Loki(2023) · Echo+Shang-Chi+TFATWS+FFH+Eternals+NWH+Hawkeye(2024) · MsMarvel/MoM/She-Hulk/MoonKnight/L&T+IHEART-Intro(Wakanda Forever)+WBN(2025) · GotG3/Quantumania/Secret Invasion/Marvels/Agatha/BNW/Thunderbolts*/Ironheart/DBA(2026-27, fuzzy).
+**TV soft-canon:** Agents of SHIELD S1-7 (2013-20) · Agent Carter S1-2 (1946-47) — Edwin Jarvis = T-22 · Netflix Defenders block (2015-19) · Runaways/C&D/Helstrom/Inhumans/Slingshot/WHIH/Darryl (name-stamped, non-load-bearing).
+
+## APPENDIX B — NATURAL BUTTERFLY REGISTRY (T-14..T-22; T-1..T-13 in coverage files)
+- **T-14** armor family named for the son (canon designations preserved; exchange staged Ch.4)
+- **T-15** cheeseburger Fridays (tradition law, from Ch.4)
+- **T-16** Everhart's 90s window ↔ Elena year (texture) · **T-17** SI legacy anxiety (texture) · **T-18** Rhodey godfather investment (texture) · **T-19** JARVIS watch-over precedent (record) · **T-20** 2012 table knows the son (texture) · **T-21** Endgame horizon (reserved — north star) · **T-22** JARVIS named for Edwin Jarvis, Howard-era butler (mainline-verified via Endgame 1970; texture)

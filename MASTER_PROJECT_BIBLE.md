@@ -82,5 +82,5 @@ Every chapter passes the silent six-part audit (continuity, canon, adaptation, c
 ## §15. CROSS-PROJECT LAW (incorporated by reference — see foundation/CROSS_PROJECT_LAW.md)
 P1 always-on embodiment every beat; P2 benchmark in action (never ordinary-boy-plus-spike); P3 dreams/feelings ≠ proof (no on-page certification of psychic impressions); P4 first exposure = wound + information, debut ≠ mastery; P5 costs match mechanism (state + cost + out-of-scope per feat; concealment = action with cost); P6 OC-arc owns the spine, canon is weather; P7 institutional logs accumulate "within tolerance"; P8 others notice on-page, concealment leaves traces; P9 audits itemized with evidence per line; P10 consolidation rhythm (sleep/hunger/stillness) shown after real adaptive events; P11 time gaps = growth.
 
-## §16. MCU TIMELINE FILE (foundation/MCU_TIMELINE.md = map authority)
+## §16. MCU TIMELINE FILE (foundation/MCU_TIMELINE.md = map authority, current version dated 2026-10-24)
 Era buckets Era0→Era3 + IM1 beat-level map + confidence tags ([canon]/[convention]/[fuzzy]/[journal]). Official-book retcon hazard flagged; project convention 2008 stands per user arithmetic. Natural-butterfly registry T-14..T-21 lives there.

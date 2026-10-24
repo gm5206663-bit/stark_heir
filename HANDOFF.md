@@ -1,25 +1,25 @@
-# HANDOFF — MARK HOWARD STARK (Stark Heir serial)
+# HANDOFF — STARK HEIR (cold-start brief)
 
 ## 1. WHAT THIS IS
-Chronological MCU fanfiction: Mark Howard Stark (born Nov 1996), Tony Stark's public son, hidden Adaptation-Talent holder with a stabilized X-gene and a growing psychic core. Opens spring 2008 at Iron Man 1; canon is the spine — the OC is braided around with absolute canon ownership.
+Chronological MCU fanfiction. Mark Howard Stark — Tony's public son, hidden Adaptation-Talent holder with a stabilized X-gene and a growing psychic core. Canon is the spine; the OC braids around it with absolute canon ownership.
 
 ## 2. THE LIVE EDGE
-**After Chapter Three v3, `The Return`** (`chapters/`, 2026-09-24). IM1 beats 1–12 consumed and staged. Next: **Chapter Four — workshop rebirth / weapons-division storm** (IM1 beats 13+: Mark II tests, JARVIS flight log, icing, Mustang paint, Coulson, the benefit gala, Gulmira → Iron Monger → "I am Iron Man" → Fury tag). T-14 in queue: Tony names the armor family after the boy (canon designations preserved word-for-word; the origin-exchange staged on-page).
+**After Chapter Five (`Gulmira`, 2026-09-26).** IM1 beats 1–19 consumed. Next: **Chapter Six** — Pepper's hack → the sector-sixteen video → the arc theft (IM1 beats 20+; then the Iron Monger battle and the podium line).
 
-## 3. THE STATUS SOURCE
-`foundation/STATUS_PANEL.md` — §0 states the live state; the pre-Ch.1 baseline is kept below as origin record. Machine mirror: `foundation/CURRENT_STATE_MANIFEST.json`. The panel wins all disagreements.
+## 3. STATE OWNERS (single sources, never duplicate)
+- Live state: `foundation/STATUS_PANEL.md` (§0 LIVE)
+- Machine mirror: `foundation/CURRENT_STATE_MANIFEST.json`
+- Canon coverage/receipts per chapter: `canon_coverage/`
+- Full head-card apparatus: archived in those coverage files
+- Event ledger: `foundation/SERIAL_LOG.md`
 
 ## 4. THE LAWS
-`foundation/CROSS_PROJECT_LAW.md` — P1–P15 + the P12-AMENDMENT (Camera Law: never withhold film-staged canon; the camera goes where canon goes; character-secrets are not reader-secrets). `MASTER_PROJECT_BIBLE.md` — cast/dates/locks (§2 canon words), §16 timeline authority. `foundation/MCU_TIMELINE.md` (v4) — the complete MCU chronology (films + TV + specials + one-shots + fuzzy regions), the confidence tags, and the butterfly registry T-14..T-22.
+`foundation/CROSS_PROJECT_LAW.md` — P1–P15 + P12-AMENDMENT. Bible §2 canon words; §16 map authority. Desk protocol (AGENTS.md → the-authors-desk): base revision + baseline gate before edits; small authorized changes; push without force.
 
 ## 5. THE GATES
-Run: `python3 tools/mcu_verify.py` — must exit PASS. Companion checks per `CROSS_PROJECT_LAW.md` (zero-digit, zero-CJK; pre-gate self-check + garble scan MANDATORY; canon receipts on file before drafting, per the CANON ACCESS kit in `foundation/`).
+`python3 tools/mcu_verify.py` — must exit PASS. Hard style law effective 2026-10-12: sentences ≤60 words; zero digits in prose (card content inside the status fence is exempt); zero CJK; each chapter opens with a COMPACT 4-line ◆ STATUS card (status / CANON SOURCE / NEW+butterflies+NEXT / FULL CARD pointer). CI runs the same verifier on every push (`.github/workflows/style-gate.yml`).
 
-## 6. HOW WORK IS DONE (conventions)
-- User says "Next" → compose the next chapter: canon beats first (receipts → coverage file → draft), OC threads woven, growth audited, gates run, self-check reported unprompted.
-- Numeric slugs are banned by the zero-digit gate (spell PANEL ONE…SEVEN).
-- Anchored patches: grep exact strings first, assert, then write.
-- Milestones recorded in `foundation/SERIAL_LOG.md` before closing a turn.
-
-## 7. REGISTRIES
-`foundation/CURRENT_STATE_MANIFEST.json` — canon_consumed_through · butterflies T-9..T-22 on file (cross-file ledger in `foundation/MCU_TIMELINE.md`).
+## 6. CONVENTIONS
+- "Next" from the user → compose the next chapter: receipts → coverage entry → predraft audit → draft → self-check + garble scan → gates → records → push.
+- No force-push. Fetch remote before composing (upstream audits may land).
+- Composition caps: ≤60-word sentences; digits may appear only inside the fenced card; CJK nowhere.
