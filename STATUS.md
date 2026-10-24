@@ -1,6 +1,6 @@
 # STATUS — STARK HEIR map (systematic; regenerated 2026-10-24)
 
-**Live numbers:** 0 live chapters (V1 epoch retired 2026-10-24 by user order; 5 archived) · gates PASS · canon receipts: IM1 beats 1–23 on file · V2 pending.
+**Live numbers:** 1 live V2 chapter (2,012 words, N-law clean) · V1×5 archived · gates PASS · canon receipts: IM1 beats 1–23 on file.
 
 ## Root docs
 - `README.md` (1,385 B) — front door + status (number-audited)
@@ -12,7 +12,7 @@
 - `MASTER_PROJECT_BIBLE.md` (11,786 B) — bible: cast, voice, §2 canon words, locks, §16 map authority
 
 ## chapters/
-*(empty — 2026-10-24; retirement archive below)*
+- `chapters/Chapter_01_Before_the_News.md` — V2 epoch Ch.1 (N-law; Apogee no-show + casino + wheels-up)
 
 ## foundation/
 - `foundation/ADAPTATION_TALENT_STUDY.md` (7,996 B) — Talent doctrine study
