@@ -1,0 +1,35 @@
+{
+ "updated": "2026-10-24",
+ "bonds": [
+  {
+   "pair": "Mark-Tony",
+   "state": "five-Fridays-serious; weird-rock contract; missing-father era",
+   "evidence": "Ch1 FOUR / Ch2 NINE"
+  },
+  {
+   "pair": "Mark-Pepper",
+   "state": "truth-bearer; video-carried-alone mercy",
+   "evidence": "Ch2 THREE / SIX"
+  },
+  {
+   "pair": "Mark-Happy",
+   "state": "lunch-car era; read the driver not the road",
+   "evidence": "Ch1 ONE / Ch2 FIVE"
+  },
+  {
+   "pair": "Mark-JARVIS",
+   "state": "count-keeper; no-nice-versions protocol",
+   "evidence": "Ch1 FOUR / Ch2 EIGHT"
+  },
+  {
+   "pair": "Tony-Rhodey",
+   "state": "trophy escort; three-hour patience",
+   "evidence": "Ch1 THREE / FIVE"
+  },
+  {
+   "pair": "Tony-Yinsen",
+   "state": "names kept; kind hands; the cave plan",
+   "evidence": "Ch2 FOUR / SEVEN"
+  }
+ ]
+}

@@ -56,3 +56,6 @@
 
 ## tools/
 - `tools/mcu_verify.py` — 12K — gate suite
+
+## ACCOUNT-STANDARD SKELETON (2026-10-24)
+Installed per supergirl-adrian-vale standard: bible/ x6 · codex/ x11 (+characters/ x8) · planning/ x3 · timeline/ x2 · drafts/ · audits/README · root: PROJECT_ATLAS, REFRAINS, CHECKSUMS · foundation +: USER_LOCKS.json, CANON_LEDGER, DELIVERY_WORKFLOW, NO_MISTAKE_LIVE_RULES, DESIGN_REGISTER · chapters/README.
