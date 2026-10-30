@@ -156,3 +156,5 @@ Stage 3+ (natural) · TK ladder climb · telepathy scope-gated opening · new co
 - 2026-10-24: file-type completion — RELATIONSHIPS.md, CHARACTERS.md, chapters/INDEX.md, OPEN_QUESTIONS.md created; mapped.
 
 - 2026-10-24: ACCOUNT-STANDARD SKELETON installed after full tree survey (supergirl-adrian-vale = 461-file standard). ~30 files across bible/, codex/, planning/, timeline/, drafts/ + root/foundation additions — real sourced content, no stubs. Gates PASS.
+
+- 2026-10-24 (refresh survey of account): method handbook (docs 01-13 incl. 09_mcu_adaptation) + creation-pipeline template set + modules/mark-stark-heir-study cross-link confirmed. Template taxonomy aligned: RULINGS_LOG/METERS/PANELS/CANON_ACCESS/CANON_GROUND/SERIAL_FOUNDATION/RAILS/SYSTEM_SPEC/ECONOMY + aliases GLOSSARY/PLACES/OPEN_RULINGS installed.

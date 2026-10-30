@@ -1,0 +1,2 @@
+# SERIAL FOUNDATION — one-paragraph spine
+A public heir with a hidden Mutation and a Talent from conception grows twelve unwitnessed years beside a father who builds winters; when the desert takes the father, the house keeps count (Fridays, breaths, pencils) while the film runs true on the other side of the world — canon complete, camera-honest, the boy extraordinary in behavior and unbreakable only in spirit until Stage 3 someday, naturally.
